@@ -1,0 +1,7255 @@
+fileFormatVersion: 2
+guid: f596c6820beecf8438a2c8dbd294685c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7584962096874594885
+    second: the_batman_0
+  - first:
+      213: -7976918975565132364
+    second: the_batman_1
+  - first:
+      213: -4494146109009615101
+    second: the_batman_2
+  - first:
+      213: 4589883380789077616
+    second: the_batman_3
+  - first:
+      213: -2995511444086175794
+    second: the_batman_4
+  - first:
+      213: -978415404378939745
+    second: the_batman_5
+  - first:
+      213: 5644997067937407710
+    second: the_batman_6
+  - first:
+      213: -7726233543921045582
+    second: the_batman_7
+  - first:
+      213: -6921258505223502084
+    second: the_batman_8
+  - first:
+      213: -4294019319040669880
+    second: the_batman_9
+  - first:
+      213: 8420503227726172389
+    second: the_batman_10
+  - first:
+      213: 1033020541101615793
+    second: the_batman_11
+  - first:
+      213: 8067853041002131195
+    second: the_batman_12
+  - first:
+      213: -464406642686208101
+    second: the_batman_13
+  - first:
+      213: 7381061817458272645
+    second: the_batman_14
+  - first:
+      213: 5298873162687573753
+    second: the_batman_15
+  - first:
+      213: 1103734761985494848
+    second: the_batman_16
+  - first:
+      213: 1174518981439309335
+    second: the_batman_17
+  - first:
+      213: 310231274116099779
+    second: the_batman_18
+  - first:
+      213: 4255323749030532029
+    second: the_batman_19
+  - first:
+      213: 8657714969436462489
+    second: the_batman_20
+  - first:
+      213: -7341810020143559367
+    second: the_batman_21
+  - first:
+      213: -8011656786785528530
+    second: the_batman_22
+  - first:
+      213: -3911017386576956976
+    second: the_batman_23
+  - first:
+      213: 7416212287399469302
+    second: the_batman_24
+  - first:
+      213: -321960632736239714
+    second: the_batman_25
+  - first:
+      213: 3575579589201427255
+    second: the_batman_26
+  - first:
+      213: 3016617305849317808
+    second: the_batman_27
+  - first:
+      213: 6773572121046904769
+    second: the_batman_28
+  - first:
+      213: -2631222485813385793
+    second: the_batman_29
+  - first:
+      213: -3164446855345238585
+    second: the_batman_30
+  - first:
+      213: -4540153651205142866
+    second: the_batman_31
+  - first:
+      213: 7057722889806158335
+    second: the_batman_32
+  - first:
+      213: -242801995444880366
+    second: the_batman_33
+  - first:
+      213: 1134807370508302071
+    second: the_batman_34
+  - first:
+      213: 3446959058219337669
+    second: the_batman_35
+  - first:
+      213: -5031838835337850177
+    second: the_batman_36
+  - first:
+      213: 1185831766142581384
+    second: the_batman_37
+  - first:
+      213: 6808936627687236659
+    second: the_batman_38
+  - first:
+      213: -355325087785638801
+    second: the_batman_39
+  - first:
+      213: -4629883003538553117
+    second: the_batman_40
+  - first:
+      213: -1648999448962348728
+    second: the_batman_41
+  - first:
+      213: 540115798161538311
+    second: the_batman_42
+  - first:
+      213: -9150691208361544088
+    second: the_batman_43
+  - first:
+      213: -7885220481564556068
+    second: the_batman_44
+  - first:
+      213: -2681230772937699709
+    second: the_batman_45
+  - first:
+      213: 6823814192523664573
+    second: the_batman_46
+  - first:
+      213: -4895981150502378477
+    second: the_batman_47
+  - first:
+      213: 840780589602677166
+    second: the_batman_48
+  - first:
+      213: -6757955986959832532
+    second: the_batman_49
+  - first:
+      213: -1921323114623748660
+    second: the_batman_50
+  - first:
+      213: -6763063950905561579
+    second: the_batman_51
+  - first:
+      213: -5234869071288363603
+    second: the_batman_52
+  - first:
+      213: 4479134528136905674
+    second: the_batman_53
+  - first:
+      213: -7580400343517379322
+    second: the_batman_54
+  - first:
+      213: 5211682943736691880
+    second: the_batman_55
+  - first:
+      213: -5404450221699036852
+    second: the_batman_56
+  - first:
+      213: -4002787024771852885
+    second: the_batman_57
+  - first:
+      213: 2223085081005432469
+    second: the_batman_58
+  - first:
+      213: 2683277361014168646
+    second: the_batman_59
+  - first:
+      213: 3628686534123823980
+    second: the_batman_60
+  - first:
+      213: 9005221323004375398
+    second: the_batman_61
+  - first:
+      213: -761756794962478990
+    second: the_batman_62
+  - first:
+      213: 8455608941361251931
+    second: the_batman_63
+  - first:
+      213: -5998113929337459961
+    second: the_batman_64
+  - first:
+      213: 5378000909327514351
+    second: the_batman_65
+  - first:
+      213: -3204640487949254765
+    second: the_batman_66
+  - first:
+      213: -8487436578375479130
+    second: the_batman_67
+  - first:
+      213: -410999171018243697
+    second: the_batman_68
+  - first:
+      213: 1581420813011869479
+    second: the_batman_69
+  - first:
+      213: -3415120937819286967
+    second: the_batman_70
+  - first:
+      213: 4777552523421026834
+    second: the_batman_71
+  - first:
+      213: 8463862052867735544
+    second: the_batman_72
+  - first:
+      213: 142930345004506194
+    second: the_batman_73
+  - first:
+      213: 3745047269868310603
+    second: the_batman_74
+  - first:
+      213: -4806829824460234516
+    second: the_batman_75
+  - first:
+      213: 6835435535036891944
+    second: the_batman_76
+  - first:
+      213: 833699983230144442
+    second: the_batman_77
+  - first:
+      213: 6330890620048744264
+    second: the_batman_78
+  - first:
+      213: 222940787895897190
+    second: the_batman_79
+  - first:
+      213: -9208578602697815925
+    second: the_batman_80
+  - first:
+      213: -4692159616892907905
+    second: the_batman_81
+  - first:
+      213: -1779384100959629088
+    second: the_batman_82
+  - first:
+      213: 238819719611140262
+    second: the_batman_83
+  - first:
+      213: -1181610835161058547
+    second: the_batman_84
+  - first:
+      213: -3065733553106383779
+    second: the_batman_85
+  - first:
+      213: -1812293882958968880
+    second: the_batman_86
+  - first:
+      213: -5216183683099202179
+    second: the_batman_87
+  - first:
+      213: -9027644423029938927
+    second: the_batman_88
+  - first:
+      213: 8294197546900345664
+    second: the_batman_89
+  - first:
+      213: 3323812390096606841
+    second: the_batman_90
+  - first:
+      213: -6649921849910465754
+    second: the_batman_91
+  - first:
+      213: -1682054079893413812
+    second: the_batman_92
+  - first:
+      213: -6311393689515820305
+    second: the_batman_93
+  - first:
+      213: 8641951836527003678
+    second: the_batman_94
+  - first:
+      213: -3200368892526481848
+    second: the_batman_95
+  - first:
+      213: -7910771221615650067
+    second: the_batman_96
+  - first:
+      213: 2284778218404240082
+    second: the_batman_97
+  - first:
+      213: -5632030498925633952
+    second: the_batman_98
+  - first:
+      213: 6098484257361375183
+    second: the_batman_99
+  - first:
+      213: 3340317184859117319
+    second: the_batman_100
+  - first:
+      213: -8023024246402697345
+    second: the_batman_101
+  - first:
+      213: -3375951304233876594
+    second: the_batman_102
+  - first:
+      213: -6917548038130311042
+    second: the_batman_103
+  - first:
+      213: 2391755337371234615
+    second: the_batman_104
+  - first:
+      213: -2062110903708284838
+    second: the_batman_105
+  - first:
+      213: 1099824876554245017
+    second: the_batman_106
+  - first:
+      213: -7735440294993754038
+    second: the_batman_107
+  - first:
+      213: -4473677659353915029
+    second: the_batman_108
+  - first:
+      213: 5210185706922697884
+    second: the_batman_109
+  - first:
+      213: -6835491027487461505
+    second: the_batman_110
+  - first:
+      213: -5556463503882857948
+    second: the_batman_111
+  - first:
+      213: -7913477939982164415
+    second: the_batman_112
+  - first:
+      213: 4793537969322112008
+    second: the_batman_113
+  - first:
+      213: 4236765440813199174
+    second: the_batman_114
+  - first:
+      213: 6356250709604266569
+    second: the_batman_115
+  - first:
+      213: -3269340066997333630
+    second: the_batman_116
+  - first:
+      213: 6404921993654121169
+    second: the_batman_117
+  - first:
+      213: 5710785776495933779
+    second: the_batman_118
+  - first:
+      213: -5098531943073534721
+    second: the_batman_119
+  - first:
+      213: -2963571755827824296
+    second: the_batman_120
+  - first:
+      213: -7066692833599009998
+    second: the_batman_121
+  - first:
+      213: -2594965264060777823
+    second: the_batman_122
+  - first:
+      213: -4546177043712818972
+    second: the_batman_123
+  - first:
+      213: -8863428346141684035
+    second: the_batman_124
+  - first:
+      213: -653834073455791724
+    second: the_batman_125
+  - first:
+      213: 1449776523247106017
+    second: the_batman_126
+  - first:
+      213: 6013998092927792109
+    second: the_batman_127
+  - first:
+      213: -8752906106281487383
+    second: the_batman_128
+  - first:
+      213: 3149485170144909575
+    second: the_batman_129
+  - first:
+      213: 5796242416029531116
+    second: the_batman_130
+  - first:
+      213: 3958350565120744340
+    second: the_batman_131
+  - first:
+      213: 9156240681817577703
+    second: the_batman_132
+  - first:
+      213: -9129130560920710185
+    second: the_batman_133
+  - first:
+      213: -1083375283908765182
+    second: the_batman_134
+  - first:
+      213: 5294399980973301178
+    second: the_batman_135
+  - first:
+      213: -3121776869776900406
+    second: the_batman_136
+  - first:
+      213: -30287616831080762
+    second: the_batman_137
+  - first:
+      213: 8655818660087886118
+    second: the_batman_138
+  - first:
+      213: -5677667979649961450
+    second: the_batman_139
+  - first:
+      213: -8823225432550067999
+    second: the_batman_140
+  - first:
+      213: 8512755005899846627
+    second: the_batman_141
+  - first:
+      213: 3410498854144326216
+    second: the_batman_142
+  - first:
+      213: 1797422232704138955
+    second: the_batman_143
+  - first:
+      213: -3813423652854836609
+    second: the_batman_144
+  - first:
+      213: 6697972146302912680
+    second: the_batman_145
+  - first:
+      213: -6827030311938867874
+    second: the_batman_146
+  - first:
+      213: 7703804854392930194
+    second: the_batman_147
+  - first:
+      213: -9049760494957828666
+    second: the_batman_148
+  - first:
+      213: 3309796210623864180
+    second: the_batman_149
+  - first:
+      213: 6042695629554259951
+    second: the_batman_150
+  - first:
+      213: 6498506155055828028
+    second: the_batman_151
+  - first:
+      213: -2863646260513960679
+    second: the_batman_152
+  - first:
+      213: -7409975076799389242
+    second: the_batman_153
+  - first:
+      213: 8091889483429044908
+    second: the_batman_154
+  - first:
+      213: -5012262985301516495
+    second: the_batman_155
+  - first:
+      213: 8591861042592052069
+    second: the_batman_156
+  - first:
+      213: -3281239715421006289
+    second: the_batman_157
+  - first:
+      213: -5971557897556692775
+    second: the_batman_158
+  - first:
+      213: 8982739898751072921
+    second: the_batman_159
+  - first:
+      213: -4281882473786094584
+    second: the_batman_160
+  - first:
+      213: 3207462447594887300
+    second: the_batman_161
+  - first:
+      213: 5707317048888666826
+    second: the_batman_162
+  - first:
+      213: 982659911251998187
+    second: the_batman_163
+  - first:
+      213: -2432379803502112333
+    second: the_batman_164
+  - first:
+      213: 6025639468781387748
+    second: the_batman_165
+  - first:
+      213: 1328329774110278469
+    second: the_batman_166
+  - first:
+      213: 441885291595277815
+    second: the_batman_167
+  - first:
+      213: 4865532875888482981
+    second: the_batman_168
+  - first:
+      213: 9101441229592464111
+    second: the_batman_169
+  - first:
+      213: 1021416728243361263
+    second: the_batman_170
+  - first:
+      213: 5738604791751361480
+    second: the_batman_171
+  - first:
+      213: 2389232231139886090
+    second: the_batman_172
+  - first:
+      213: 1408413622665796463
+    second: the_batman_173
+  - first:
+      213: -976322546204540025
+    second: the_batman_174
+  - first:
+      213: -3393102212320673386
+    second: the_batman_175
+  - first:
+      213: 3109562272525565951
+    second: the_batman_176
+  - first:
+      213: -208786914010786273
+    second: the_batman_177
+  - first:
+      213: 4952261494610001194
+    second: the_batman_178
+  - first:
+      213: -7377494056134559842
+    second: the_batman_179
+  - first:
+      213: -8033323855443410739
+    second: the_batman_180
+  - first:
+      213: -8594096429222659384
+    second: the_batman_181
+  - first:
+      213: 4472120153130787405
+    second: the_batman_182
+  - first:
+      213: -3546378967723973963
+    second: the_batman_183
+  - first:
+      213: 6342592738343038322
+    second: the_batman_184
+  - first:
+      213: 2319765820997136653
+    second: the_batman_185
+  - first:
+      213: 6203230782716735066
+    second: the_batman_186
+  - first:
+      213: -4739237403645696816
+    second: the_batman_187
+  - first:
+      213: 5062443864982602280
+    second: the_batman_188
+  - first:
+      213: -7309424845614285184
+    second: the_batman_189
+  - first:
+      213: 3202370777401559387
+    second: the_batman_190
+  - first:
+      213: -6351040980227460698
+    second: the_batman_191
+  - first:
+      213: -4876768705950723350
+    second: the_batman_192
+  - first:
+      213: 1518130909703409545
+    second: the_batman_193
+  - first:
+      213: -2651948911877722334
+    second: the_batman_194
+  - first:
+      213: 8515120384092485737
+    second: the_batman_195
+  - first:
+      213: -107634466134054367
+    second: the_batman_196
+  - first:
+      213: -3079998114398170261
+    second: the_batman_197
+  - first:
+      213: -8643779499043377101
+    second: the_batman_198
+  - first:
+      213: 3591308798876405171
+    second: the_batman_199
+  - first:
+      213: 8733763843850807856
+    second: the_batman_200
+  - first:
+      213: -4709026863588898021
+    second: the_batman_201
+  - first:
+      213: 1088059922309516244
+    second: the_batman_202
+  - first:
+      213: -5334090273000373220
+    second: the_batman_203
+  - first:
+      213: -7041741809795340634
+    second: the_batman_204
+  - first:
+      213: 3679259488653524137
+    second: the_batman_205
+  - first:
+      213: -5537928663355370988
+    second: the_batman_206
+  - first:
+      213: 3587348183383583526
+    second: the_batman_207
+  - first:
+      213: -5587658066097858772
+    second: the_batman_208
+  - first:
+      213: 7029785617660462484
+    second: the_batman_209
+  - first:
+      213: 6270782528279892488
+    second: the_batman_210
+  - first:
+      213: 7970792574218592999
+    second: the_batman_211
+  - first:
+      213: 4823304996536971083
+    second: the_batman_212
+  - first:
+      213: -2469578764285749049
+    second: the_batman_213
+  - first:
+      213: 3907607570826191569
+    second: the_batman_214
+  - first:
+      213: -7748507989708212719
+    second: the_batman_215
+  - first:
+      213: 2217788392171231716
+    second: the_batman_216
+  - first:
+      213: -4828896025864055806
+    second: the_batman_217
+  - first:
+      213: 197293198845604002
+    second: the_batman_218
+  - first:
+      213: -8620390581787009837
+    second: the_batman_219
+  - first:
+      213: 4432271063390182475
+    second: the_batman_220
+  - first:
+      213: 4268559597801889403
+    second: the_batman_221
+  - first:
+      213: 1942244612261862163
+    second: the_batman_222
+  - first:
+      213: 4647965763826777111
+    second: the_batman_223
+  - first:
+      213: -2465796362669367468
+    second: the_batman_224
+  - first:
+      213: 837899194458878087
+    second: the_batman_225
+  - first:
+      213: -1672351620480949240
+    second: the_batman_226
+  - first:
+      213: -6788636258320150299
+    second: the_batman_227
+  - first:
+      213: -1980427089769824950
+    second: the_batman_228
+  - first:
+      213: -1848811068610367872
+    second: the_batman_229
+  - first:
+      213: -6095093165573548798
+    second: the_batman_230
+  - first:
+      213: 5998334538592487948
+    second: the_batman_231
+  - first:
+      213: -5972507159154768906
+    second: the_batman_232
+  - first:
+      213: -6853131094885371781
+    second: the_batman_233
+  - first:
+      213: -5172236626609558026
+    second: the_batman_234
+  - first:
+      213: -5672824931285388254
+    second: the_batman_235
+  - first:
+      213: -3158873859296074686
+    second: the_batman_236
+  - first:
+      213: -4336912270982364906
+    second: the_batman_237
+  - first:
+      213: 8050697633728863195
+    second: the_batman_238
+  - first:
+      213: -4594755918465291271
+    second: the_batman_239
+  - first:
+      213: 5470398145835690905
+    second: the_batman_240
+  - first:
+      213: -2063051766106504929
+    second: the_batman_241
+  - first:
+      213: 3841015902120429027
+    second: the_batman_242
+  - first:
+      213: -583857035076042825
+    second: the_batman_243
+  - first:
+      213: 3459850873304793375
+    second: the_batman_244
+  - first:
+      213: 8294199024838251606
+    second: the_batman_245
+  - first:
+      213: -6865823345895535820
+    second: the_batman_246
+  - first:
+      213: 9215026831241641350
+    second: the_batman_247
+  - first:
+      213: -1747960964398540631
+    second: the_batman_248
+  - first:
+      213: -2814246308958691498
+    second: the_batman_249
+  - first:
+      213: 2194772801948773477
+    second: the_batman_250
+  - first:
+      213: 4163170560163660626
+    second: the_batman_251
+  - first:
+      213: 7309138958459954384
+    second: the_batman_252
+  - first:
+      213: -1158027823919295034
+    second: the_batman_253
+  - first:
+      213: -2732585434639069030
+    second: the_batman_254
+  - first:
+      213: 7055990045396099703
+    second: the_batman_255
+  - first:
+      213: -409763493268900642
+    second: the_batman_256
+  - first:
+      213: -3575942405017244891
+    second: the_batman_257
+  - first:
+      213: 3190385594880058194
+    second: the_batman_258
+  - first:
+      213: 4857096685256100925
+    second: the_batman_259
+  - first:
+      213: 5953478801088847012
+    second: the_batman_260
+  - first:
+      213: -809042602080967765
+    second: the_batman_261
+  - first:
+      213: -4724929539479715592
+    second: the_batman_262
+  - first:
+      213: -1373686913664263015
+    second: the_batman_263
+  - first:
+      213: 2927640776191263233
+    second: the_batman_264
+  - first:
+      213: 4769151422430556136
+    second: the_batman_265
+  - first:
+      213: 6548698396217680515
+    second: the_batman_266
+  - first:
+      213: -5668400663620931675
+    second: the_batman_267
+  - first:
+      213: 3026149019557656144
+    second: the_batman_268
+  - first:
+      213: -1475684463118454381
+    second: the_batman_269
+  - first:
+      213: -7686571664185586920
+    second: the_batman_270
+  - first:
+      213: 4286903235496872977
+    second: the_batman_271
+  - first:
+      213: -2880663957669076410
+    second: the_batman_272
+  - first:
+      213: 5220254167444677172
+    second: the_batman_273
+  - first:
+      213: 4203295425761604843
+    second: the_batman_274
+  - first:
+      213: -7866109645468637694
+    second: the_batman_275
+  - first:
+      213: -7367377336149558869
+    second: the_batman_276
+  - first:
+      213: 7384162017161471921
+    second: the_batman_277
+  - first:
+      213: 3378878999067134179
+    second: the_batman_278
+  - first:
+      213: -741835532333266038
+    second: the_batman_279
+  - first:
+      213: 7067012744692502233
+    second: the_batman_280
+  - first:
+      213: -3388600261276565478
+    second: the_batman_281
+  - first:
+      213: -8923325978470372494
+    second: the_batman_282
+  - first:
+      213: -7913963151020978427
+    second: the_batman_283
+  - first:
+      213: 927877159568240073
+    second: the_batman_284
+  - first:
+      213: -4731030676466712826
+    second: the_batman_285
+  - first:
+      213: 2641888516550608402
+    second: the_batman_286
+  - first:
+      213: 1509723269694237995
+    second: the_batman_287
+  - first:
+      213: -1236580216329191457
+    second: the_batman_288
+  - first:
+      213: 7840100151015857397
+    second: the_batman_289
+  - first:
+      213: -3118667360711824039
+    second: the_batman_290
+  - first:
+      213: 7607422447127796947
+    second: the_batman_291
+  - first:
+      213: 4907537790068275174
+    second: the_batman_292
+  - first:
+      213: -4079401002942595389
+    second: the_batman_293
+  - first:
+      213: -1473714564326168861
+    second: the_batman_294
+  - first:
+      213: 9005423560412551580
+    second: the_batman_295
+  - first:
+      213: -8676499314942039785
+    second: the_batman_296
+  - first:
+      213: -4297743600069878903
+    second: the_batman_297
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: the_batman_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1417
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbddcf4e82dccb690800000000000000
+      internalID: -7584962096874594885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1416
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd0e5b847a4c4190800000000000000
+      internalID: -7976918975565132364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30727c3cce591a1c0800000000000000
+      internalID: -4494146109009615101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076e668dd9a82bf30800000000000000
+      internalID: 4589883380789077616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec740a6663ecd66d0800000000000000
+      internalID: -2995511444086175794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1933af58fb62f0800000000000000
+      internalID: -978415404378939745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2e780ccee075e40800000000000000
+      internalID: 5644997067937407710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfe0e2f687e6c490800000000000000
+      internalID: -7726233543921045582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1418
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf680855f00c2ff90800000000000000
+      internalID: -6921258505223502084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1419
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8478ae51e249864c0800000000000000
+      internalID: -4294019319040669880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1418
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e016a66213abd470800000000000000
+      internalID: 8420503227726172389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1419
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba2b0e75b6065e00800000000000000
+      internalID: 1033020541101615793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1418
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfeacf07895c6ff60800000000000000
+      internalID: 8067853041002131195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1418
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b975b577e981e89f0800000000000000
+      internalID: -464406642686208101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_14
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1419
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589accecd9cce6660800000000000000
+      internalID: 7381061817458272645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1420
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fee7db1111698940800000000000000
+      internalID: 5298873162687573753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1359
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f456e0be0415f00800000000000000
+      internalID: 1103734761985494848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1359
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716c4ae6acabc4010800000000000000
+      internalID: 1174518981439309335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1358
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce28eb33b92e4400800000000000000
+      internalID: 310231274116099779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1358
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db39f317762fd0b30800000000000000
+      internalID: 4255323749030532029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1359
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d97d7e4e1662870800000000000000
+      internalID: 8657714969436462489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1358
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d80fc6fa6ac1a90800000000000000
+      internalID: -7341810020143559367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1360
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e251d499990e0d090800000000000000
+      internalID: -8011656786785528530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1364
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d134ba886649b9c0800000000000000
+      internalID: -3911017386576956976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1373
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0255958cdabe660800000000000000
+      internalID: 7416212287399469302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1378
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa816a28a288bf0800000000000000
+      internalID: -321960632736239714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1376
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bfc7031b20f9130800000000000000
+      internalID: 3575579589201427255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1304
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9c17af47d2dd920800000000000000
+      internalID: 3016617305849317808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1303
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf6d77c4ff800e50800000000000000
+      internalID: 6773572121046904769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1305
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a21807150c7bd0800000000000000
+      internalID: -2631222485813385793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1306
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8b8cd950a514d0800000000000000
+      internalID: -3164446855345238585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1307
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6893a1f422ef0c0800000000000000
+      internalID: -4540153651205142866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1306
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff91a0a239112f160800000000000000
+      internalID: 7057722889806158335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1306
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c70ce1fd461acf0800000000000000
+      internalID: -242801995444880366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1305
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f674af7a45afbf00800000000000000
+      internalID: 1134807370508302071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78a7c200f06df20800000000000000
+      internalID: 3446959058219337669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_36
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1301
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb21ca43d315b2ab0800000000000000
+      internalID: -5031838835337850177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1345
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a7d4065bbe47010800000000000000
+      internalID: 1185831766142581384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1303
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a17f99c33e7e50800000000000000
+      internalID: 6808936627687236659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1249
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a0ca17b1a11bf0800000000000000
+      internalID: -355325087785638801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1249
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6477e30f95fbfb0800000000000000
+      internalID: -4629883003538553117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1247
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c8c9ecb39d19e0800000000000000
+      internalID: -1648999448962348728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1247
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dbefee470ee7700800000000000000
+      internalID: 540115798161538311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1245
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866f15414d6320180800000000000000
+      internalID: -9150691208361544088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_44
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1246
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c5bcefb1129290800000000000000
+      internalID: -7885220481564556068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1246
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ec33a51da5acad0800000000000000
+      internalID: -2681230772937699709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1245
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc54ae9ade03be50800000000000000
+      internalID: 6823814192523664573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1245
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3142c49651bfd0cb0800000000000000
+      internalID: -4895981150502378477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1245
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1af49dd7d0bab00800000000000000
+      internalID: 840780589602677166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1191
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ae885c5dae632a0800000000000000
+      internalID: -6757955986959832532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1194
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5ba1e8ec61655e0800000000000000
+      internalID: -1921323114623748660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1194
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e260d3b25c422a0800000000000000
+      internalID: -6763063950905561579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1190
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59d20b0520a57b0800000000000000
+      internalID: -5234869071288363603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1191
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac389c23f15192e30800000000000000
+      internalID: 4479134528136905674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1191
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605c56ddc020dc690800000000000000
+      internalID: -7580400343517379322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_55
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1190
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac336f460e935840800000000000000
+      internalID: 5211682943736691880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1191
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49095948298ff4b0800000000000000
+      internalID: -5404450221699036852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1188
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba55eec986e3378c0800000000000000
+      internalID: -4002787024771852885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1187
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e9cce4a1cf9de10800000000000000
+      internalID: 2223085081005432469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1108
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd8111b8aec3520800000000000000
+      internalID: 2683277361014168646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1110
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63a1bb5d2fab5230800000000000000
+      internalID: 3628686534123823980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1115
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661f271e419f8fc70800000000000000
+      internalID: 9005221323004375398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1121
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278750f1b32bd65f0800000000000000
+      internalID: -761756794962478990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1121
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56447d488b585570800000000000000
+      internalID: 8455608941361251931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1121
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ba48f192b62cca0800000000000000
+      internalID: -5998113929337459961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1122
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab13a455f72aa40800000000000000
+      internalID: 5378000909327514351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1120
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f33f28474d683d0800000000000000
+      internalID: -3204640487949254765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1112
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d54c7661963a80800000000000000
+      internalID: -8487436578375479130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_68
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1114
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f814a787e66db4af0800000000000000
+      internalID: -410999171018243697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1115
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5bf7c9d552f510800000000000000
+      internalID: 1581420813011869479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_70
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1115
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425844e99d0b90d0800000000000000
+      internalID: -3415120937819286967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_71
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1118
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a084e15b64d4240800000000000000
+      internalID: 4777552523421026834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1063
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fff61191bda57570800000000000000
+      internalID: 8463862052867735544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1062
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c1e99346acbf100800000000000000
+      internalID: 142930345004506194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1061
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b401c8b56a419f330800000000000000
+      internalID: 3745047269868310603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1058
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce06b490eb5ba4db0800000000000000
+      internalID: -4806829824460234516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_76
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1060
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c4f647685cde50800000000000000
+      internalID: 6835435535036891944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_77
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1062
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf8ea5b7b5e19b00800000000000000
+      internalID: 833699983230144442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_78
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1064
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f9bd7f977dbd750800000000000000
+      internalID: 6330890620048744264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1061
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c0b74277b081300800000000000000
+      internalID: 222940787895897190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1061
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880febcc8e843080800000000000000
+      internalID: -9208578602697815925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1007
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e4aa540b912eeb0800000000000000
+      internalID: -4692159616892907905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_82
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1006
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d257769b5e47e0800000000000000
+      internalID: -1779384100959629088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1005
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c7c80545705300800000000000000
+      internalID: 238819719611140262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1002
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03f873b4331a9fe0800000000000000
+      internalID: -1181610835161058547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 999
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c091f83935475d0800000000000000
+      internalID: -3065733553106383779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1002
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d70e9db05079d6e0800000000000000
+      internalID: -1812293882958968880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_87
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 997
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7deea5a3946c97b0800000000000000
+      internalID: -5216183683099202179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1000
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115a3ce4a3d57b280800000000000000
+      internalID: -9027644423029938927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_89
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 998
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04359ef69b8ea1370800000000000000
+      internalID: 8294197546900345664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 996
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97610cb22cd802e20800000000000000
+      internalID: 3323812390096606841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 949
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6aff6f4bb6b3a0800000000000000
+      internalID: -6649921849910465754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_92
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 947
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40e4fae9b428a8e0800000000000000
+      internalID: -1682054079893413812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_93
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 945
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea74cae0ec6968a0800000000000000
+      internalID: -6311393689515820305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_94
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 943
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180a3688616ee770800000000000000
+      internalID: 8641951836527003678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 941
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eafb2d2710693d0800000000000000
+      internalID: -3200368892526481848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 941
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea573cac7b473290800000000000000
+      internalID: -7910771221615650067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 939
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad8823fa925bf10800000000000000
+      internalID: 2284778218404240082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_98
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 938
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e1f5bd91207d1b0800000000000000
+      internalID: -5632030498925633952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_99
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 938
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf2654fe1b22a450800000000000000
+      internalID: 6098484257361375183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_100
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 937
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70719a828c03b5e20800000000000000
+      internalID: 3340317184859117319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_101
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 938
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7732d8a4fd78a090800000000000000
+      internalID: -8023024246402697345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_102
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 936
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e838f14ec263621d0800000000000000
+      internalID: -3375951304233876594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 893
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ea86c5beefff90800000000000000
+      internalID: -6917548038130311042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_104
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 890
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73138a9aec8313120800000000000000
+      internalID: 2391755337371234615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 890
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5802010f09e163e0800000000000000
+      internalID: -2062110903708284838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_106
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 889
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993572ae5ec534f00800000000000000
+      internalID: 1099824876554245017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_107
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 887
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4887ab290236a490800000000000000
+      internalID: -7735440294993754038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 886
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61eb921fdd4ae1c0800000000000000
+      internalID: -4473677659353915029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_109
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 887
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e1f2bb4c4e4840800000000000000
+      internalID: 5210185706922697884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_110
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 884
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f6d3160257321a0800000000000000
+      internalID: -6835491027487461505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_111
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 882
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d3a3f1e973e2b0800000000000000
+      internalID: -5556463503882857948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_112
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 882
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e1971bdbdad2290800000000000000
+      internalID: -7913477939982164415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 828
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804bac6c261168240800000000000000
+      internalID: 4793537969322112008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 825
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f625898b30cca30800000000000000
+      internalID: 4236765440813199174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_115
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 824
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9427941f750f53850800000000000000
+      internalID: 6356250709604266569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_116
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 827
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2811ca0e788f0a2d0800000000000000
+      internalID: -3269340066997333630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_117
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 874
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d237d55e9ad2e850800000000000000
+      internalID: 6404921993654121169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_118
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 871
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b46c1869c04f40800000000000000
+      internalID: 5710785776495933779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_119
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 874
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcae1106306e39b0800000000000000
+      internalID: -5098531943073534721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_120
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 874
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859708390374fd6d0800000000000000
+      internalID: -2963571755827824296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_121
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 824
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b488c0f401eed90800000000000000
+      internalID: -7066692833599009998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 821
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafd2f47d4dcfbd0800000000000000
+      internalID: -2594965264060777823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_123
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0467fb01cb8e0c0800000000000000
+      internalID: -4546177043712818972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 820
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec81031e6cef480800000000000000
+      internalID: -8863428346141684035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_125
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 817
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491fe95df5d1de6f0800000000000000
+      internalID: -653834073455791724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_126
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 865
+        width: 277
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e738df0114ae1410800000000000000
+      internalID: 1449776523247106017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_127
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de376d8e663067350800000000000000
+      internalID: 6013998092927792109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_128
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 815
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e39ebe654e678680800000000000000
+      internalID: -8752906106281487383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_129
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 817
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70919d7531835bb20800000000000000
+      internalID: 3149485170144909575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_130
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 818
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebfd7f74c3607050800000000000000
+      internalID: 5796242416029531116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_131
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 812
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b1d72edd2eee630800000000000000
+      internalID: 3958350565120744340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_132
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 812
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e897b56360811f70800000000000000
+      internalID: 9156240681817577703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 812
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d398208f10de4180800000000000000
+      internalID: -9129130560920710185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_134
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 809
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a1e245be317f0f0800000000000000
+      internalID: -1083375283908765182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_135
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 805
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd9fb45bbc797940800000000000000
+      internalID: 5294399980973301178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_136
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 804
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acebae01a783da4d0800000000000000
+      internalID: -3121776869776900406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_137
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 761
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b0bda295649ff0800000000000000
+      internalID: -30287616831080762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_138
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 760
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6217cbaf535af1870800000000000000
+      internalID: 8655818660087886118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_139
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 763
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ba58dd0fd431b0800000000000000
+      internalID: -5677667979649961450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_140
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 762
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e039af673b9d8580800000000000000
+      internalID: -8823225432550067999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_141
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 766
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3b69a4391632670800000000000000
+      internalID: 8512755005899846627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_142
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 763
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a362463a6845f20800000000000000
+      internalID: 3410498854144326216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_143
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 759
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce38bb5ff9b1f810800000000000000
+      internalID: 1797422232704138955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_144
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 763
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d381646ff31bc0800000000000000
+      internalID: -3813423652854836609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 727
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a888dffd2af3fc50800000000000000
+      internalID: 6697972146302912680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_146
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 705
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d3f0a3a148141a0800000000000000
+      internalID: -6827030311938867874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_147
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 711
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3505d2b969ea60800000000000000
+      internalID: 7703804854392930194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_148
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 712
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5ecab07cac86280800000000000000
+      internalID: -9049760494957828666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_149
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 710
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d5b251e12ceed20800000000000000
+      internalID: 3309796210623864180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_150
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 707
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe71365d8a7fbd350800000000000000
+      internalID: 6042695629554259951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_151
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 703
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ccacedae45f2a50800000000000000
+      internalID: 6498506155055828028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_152
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 696
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d80b7f5e84248d0800000000000000
+      internalID: -2863646260513960679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_153
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 704
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1efd86dea7a2990800000000000000
+      internalID: -7409975076799389242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_154
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 700
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e18dcc9a2c4070800000000000000
+      internalID: 8091889483429044908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_155
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 696
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f9348fe5dd07ab0800000000000000
+      internalID: -5012262985301516495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_156
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 693
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563773bb81c6c3770800000000000000
+      internalID: 8591861042592052069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_157
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 692
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265d631dd1b672d0800000000000000
+      internalID: -3281239715421006289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_158
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 692
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d074781bb3c02da0800000000000000
+      internalID: -5971557897556692775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_159
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 692
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a39c6685a19ac70800000000000000
+      internalID: 8982739898751072921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_160
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 690
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c42049392b394c0800000000000000
+      internalID: -4281882473786094584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_161
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 629
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4885c4b2a12338c20800000000000000
+      internalID: 3207462447594887300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_162
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 626
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2a870e96743f40800000000000000
+      internalID: 5707317048888666826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_163
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 626
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be53131abfb13ad00800000000000000
+      internalID: 982659911251998187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_164
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 625
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11c6db4737e3ed0800000000000000
+      internalID: -2432379803502112333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_165
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 624
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efb941fb2f5f9350800000000000000
+      internalID: 6025639468781387748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_166
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 624
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5430b6a44ec2f6210800000000000000
+      internalID: 1328329774110278469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_167
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 622
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5a10dd454e12600800000000000000
+      internalID: 441885291595277815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_168
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 619
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa51563f58d58340800000000000000
+      internalID: 4865532875888482981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_169
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 620
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea04f9a390de4e70800000000000000
+      internalID: 9101441229592464111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_170
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 619
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe556964a1dcc2e00800000000000000
+      internalID: 1021416728243361263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_171
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 619
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3c1b657ae93af40800000000000000
+      internalID: 5738604791751361480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_172
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04c1073e02482120800000000000000
+      internalID: 2389232231139886090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_173
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 556
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd0db4ab0bb8310800000000000000
+      internalID: 1408413622665796463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_174
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 558
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783064721d76372f0800000000000000
+      internalID: -976322546204540025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_175
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 555
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691c80ce38749e0d0800000000000000
+      internalID: -3393102212320673386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_176
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 561
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffb7d46962672b20800000000000000
+      internalID: 3109562272525565951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_177
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 561
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1613ac686d3a1df0800000000000000
+      internalID: -208786914010786273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_178
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 557
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df2155797f9b440800000000000000
+      internalID: 4952261494610001194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_179
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 554
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e973b8b5e30ed9990800000000000000
+      internalID: -7377494056134559842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_180
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 555
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0cf9e0486e38090800000000000000
+      internalID: -8033323855443410739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_181
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 555
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cafab2c4d2abb880800000000000000
+      internalID: -8594096429222659384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_182
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 551
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e930c599201e30800000000000000
+      internalID: 4472120153130787405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_183
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 552
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b265ed4e1bb8cec0800000000000000
+      internalID: -3546378967723973963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_184
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 550
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27da8e3bd7a650850800000000000000
+      internalID: 6342592738343038322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_185
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 550
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0170aa39b6713020800000000000000
+      internalID: 2319765820997136653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_186
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 494
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e699fd78d461650800000000000000
+      internalID: 6203230782716735066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_187
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 497
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42471e0b8da3eb0800000000000000
+      internalID: -4739237403645696816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_188
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 488
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822c4ab8fd9614640800000000000000
+      internalID: 5062443864982602280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_189
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 479
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efeb474d4bf8a90800000000000000
+      internalID: -7309424845614285184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_190
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 486
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b598c12514b117c20800000000000000
+      internalID: 3202370777401559387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_191
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 484
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1f793b0e19cd7a0800000000000000
+      internalID: -6351040980227460698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_192
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 477
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2d01e33bc325cb0800000000000000
+      internalID: -4876768705950723350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_193
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 427
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f896bd40c711510800000000000000
+      internalID: 1518130909703409545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_194
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 426
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f6b09e382623bd0800000000000000
+      internalID: -2651948911877722334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_195
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 429
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9683581dfd8cb2670800000000000000
+      internalID: 8515120384092485737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_196
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 424
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aad78f50b918ef0800000000000000
+      internalID: -107634466134054367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_197
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 411
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639c629806a145d0800000000000000
+      internalID: -3079998114398170261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_198
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 411
+        width: 21
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33037b2a7502b0880800000000000000
+      internalID: -8643779499043377101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_199
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 412
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd43c33354e6d130800000000000000
+      internalID: 3591308798876405171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_200
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 412
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aa0e841ff843970800000000000000
+      internalID: 8733763843850807856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_201
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 411
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b030e540d26aeb0800000000000000
+      internalID: -4709026863588898021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_202
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 408
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db099b0cb0991f00800000000000000
+      internalID: 1088059922309516244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_203
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 403
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1442fd682189f5b0800000000000000
+      internalID: -5334090273000373220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_204
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 402
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e12bf125b64e90800000000000000
+      internalID: -7041741809795340634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_205
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 403
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acbda9e20b5f0330800000000000000
+      internalID: 3679259488653524137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_206
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 402
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412df3dc8335523b0800000000000000
+      internalID: -5537928663355370988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_207
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 402
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ba83c8a22d8c130800000000000000
+      internalID: 3587348183383583526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_208
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 402
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2714e3f796a472b0800000000000000
+      internalID: -5587658066097858772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_209
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 360
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954dcb16c0de8160800000000000000
+      internalID: 7029785617660462484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_210
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 360
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80259d54c7b460750800000000000000
+      internalID: 6270782528279892488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_211
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 358
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ee9c7d91fd9e60800000000000000
+      internalID: 7970792574218592999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_212
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 352
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe3f1e652dfe240800000000000000
+      internalID: 4823304996536971083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_213
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 352
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c856e1c23b4abdd0800000000000000
+      internalID: -2469578764285749049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_214
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 358
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e8bcd16c9a3630800000000000000
+      internalID: 3907607570826191569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_215
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 357
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167a266905c77490800000000000000
+      internalID: -7748507989708212719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_216
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 353
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d956daca27ce10800000000000000
+      internalID: 2217788392171231716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_217
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 351
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d31926a05cfcb0800000000000000
+      internalID: -4828896025864055806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_218
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 353
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0fac97e1decb200800000000000000
+      internalID: 197293198845604002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_219
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 349
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc567b40783e5880800000000000000
+      internalID: -8620390581787009837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_220
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 351
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c5d998c07928d30800000000000000
+      internalID: 4432271063390182475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_221
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 349
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed091a658fc3b30800000000000000
+      internalID: 4268559597801889403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_222
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 347
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd8c43f2d34fa10800000000000000
+      internalID: 1942244612261862163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_223
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 345
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c72197c34e08040800000000000000
+      internalID: 4647965763826777111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_224
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 310
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f54a2c54bb7cdd0800000000000000
+      internalID: -2465796362669367468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_225
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 308
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780be43c0e0d0ab00800000000000000
+      internalID: 837899194458878087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_226
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 305
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8042fa9cf0d9ac8e0800000000000000
+      internalID: -1672351620480949240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_227
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 302
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09d717a4be9c1a0800000000000000
+      internalID: -6788636258320150299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_228
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 329
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d75bafd0c1484e0800000000000000
+      internalID: -1980427089769824950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_229
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 329
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e2ba6e024b756e0800000000000000
+      internalID: -1848811068610367872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_230
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 329
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205d3112f01e96ba0800000000000000
+      internalID: -6095093165573548798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_231
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 331
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a03c87b7d5e3350800000000000000
+      internalID: 5998334538592487948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_232
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34a18e1646d1da0800000000000000
+      internalID: -5972507159154768906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_233
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 252
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b707c222499c4e0a0800000000000000
+      internalID: -6853131094885371781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_234
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 251
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2ca811368838b0800000000000000
+      internalID: -5172236626609558026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_235
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 246
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22431c9e7c31641b0800000000000000
+      internalID: -5672824931285388254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_236
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 246
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e36e16fc6924d0800000000000000
+      internalID: -3158873859296074686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_237
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 243
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611401a744130d3c0800000000000000
+      internalID: -4336912270982364906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_238
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb9c7ce7d2d9bf60800000000000000
+      internalID: 8050697633728863195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_239
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 247
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba04216d52c30c0800000000000000
+      internalID: -4594755918465291271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_240
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 247
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bed765122caeb40800000000000000
+      internalID: 5470398145835690905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_241
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 247
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11caf769519e53e0800000000000000
+      internalID: -2063051766106504929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_242
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 245
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5c386cc970e4530800000000000000
+      internalID: 3841015902120429027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_243
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 246
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bffda8be19b5e7f0800000000000000
+      internalID: -583857035076042825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_244
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 242
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114827c90cd30030800000000000000
+      internalID: 3459850873304793375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_245
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 184
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65410eb811aea1370800000000000000
+      internalID: 8294199024838251606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_246
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 178
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b00592b02b7b0a0800000000000000
+      internalID: -6865823345895535820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_247
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 175
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68df9d7641a52ef70800000000000000
+      internalID: 9215026831241641350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_248
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 174
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a896c393cefdb7e0800000000000000
+      internalID: -1747960964398540631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_249
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 173
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f101c74e9c1f8d0800000000000000
+      internalID: -2814246308958691498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_250
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 170
+        width: 17
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c68d62c36657e10800000000000000
+      internalID: 2194772801948773477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_251
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 169
+        width: 20
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2534be9219d86c930800000000000000
+      internalID: 4163170560163660626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_252
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 166
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d469f048274f6560800000000000000
+      internalID: 7309138958459954384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_253
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5954364dbddefe0800000000000000
+      internalID: -1158027823919295034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_254
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 168
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909ee96608e31ad0800000000000000
+      internalID: -2732585434639069030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_255
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 167
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e682ef89ebe160800000000000000
+      internalID: 7055990045396099703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_256
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 169
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b8cd164a305af0800000000000000
+      internalID: -409763493268900642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_257
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 171
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52be0bb2453bf5ec0800000000000000
+      internalID: -3575942405017244891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_258
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 169
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253695f8bc6864c20800000000000000
+      internalID: 3190385594880058194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_259
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 168
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cca6483bfd76340800000000000000
+      internalID: 4857096685256100925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_260
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 168
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac18bc3d610f9250800000000000000
+      internalID: 5953478801088847012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_261
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 167
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba36ec63a04b5c4f0800000000000000
+      internalID: -809042602080967765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_262
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 167
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0cf8a1e9dad6eb0800000000000000
+      internalID: -4724929539479715592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_263
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 166
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c5076b70fafece0800000000000000
+      internalID: -1373686913664263015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_264
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 160
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10244de46c111a820800000000000000
+      internalID: 2927640776191263233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_265
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 161
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efa50e53fd6f2240800000000000000
+      internalID: 4769151422430556136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_266
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 115
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382a9bfae76a1ea50800000000000000
+      internalID: 6548698396217680515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_267
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 113
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af294001abc551b0800000000000000
+      internalID: -5668400663620931675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_268
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 115
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567124008a0ff920800000000000000
+      internalID: 3026149019557656144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_269
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 113
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391f24f9cc0558be0800000000000000
+      internalID: -1475684463118454381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_270
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 116
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b82afebcfc35590800000000000000
+      internalID: -7686571664185586920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_271
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 115
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c834a97c32e7b30800000000000000
+      internalID: 4286903235496872977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_272
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 114
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6422dd59463d508d0800000000000000
+      internalID: -2880663957669076410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_273
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 117
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432eac7d181127840800000000000000
+      internalID: 5220254167444677172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_274
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 117
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be47b827bea155a30800000000000000
+      internalID: 4203295425761604843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_275
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 115
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206619134f6f5d290800000000000000
+      internalID: -7866109645468637694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_276
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 114
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9ba88c851d1c990800000000000000
+      internalID: -7367377336149558869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_277
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 111
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b767dc4b30d97660800000000000000
+      internalID: 7384162017161471921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_278
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 110
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e88c6e2c8034ee20800000000000000
+      internalID: 3378878999067134179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_279
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 108
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4385838874b5f0800000000000000
+      internalID: -741835532333266038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_280
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 109
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de0e8e06a2131260800000000000000
+      internalID: 7067012744692502233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_281
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 106
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1080d4140649f0d0800000000000000
+      internalID: -3388600261276565478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_282
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b2246ec4af92480800000000000000
+      internalID: -8923325978470372494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_283
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0dd1b174fb2290800000000000000
+      internalID: -7913963151020978427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_284
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 63
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd634b4c5b70ec00800000000000000
+      internalID: 927877159568240073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_285
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 64
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb9b37aa0085eb0800000000000000
+      internalID: -4731030676466712826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_286
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 64
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ce25cb9fd9a420800000000000000
+      internalID: 2641888516550608402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_287
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d244f905d93f410800000000000000
+      internalID: 1509723269694237995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_288
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 65
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf3c6d48d8c6dee0800000000000000
+      internalID: -1236580216329191457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_289
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc59c87c81adcc60800000000000000
+      internalID: 7840100151015857397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_290
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 65
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95daa201f8448b4d0800000000000000
+      internalID: -3118667360711824039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_291
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 61
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc9269e86ef29960800000000000000
+      internalID: 7607422447127796947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_292
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 61
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e733da6e931b1440800000000000000
+      internalID: 4907537790068275174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_293
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 59
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cefb33c66e0367c0800000000000000
+      internalID: -4079401002942595389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_294
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 57
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e40d69605c8be0800000000000000
+      internalID: -1473714564326168861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_295
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d252f301b9fc70800000000000000
+      internalID: 9005423560412551580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_296
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 54
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719a5f6d7d1e69780800000000000000
+      internalID: -8676499314942039785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 177
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b502657f85b54c0800000000000000
+      internalID: -4297743600069878903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

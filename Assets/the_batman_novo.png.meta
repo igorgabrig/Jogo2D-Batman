@@ -1,0 +1,7255 @@
+fileFormatVersion: 2
+guid: 186b9d598c1e2674aa7f9f76becb1998
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5445143662545357222
+    second: the_batman_novo_0
+  - first:
+      213: -3692028072633777925
+    second: the_batman_novo_1
+  - first:
+      213: 5373561281047527753
+    second: the_batman_novo_2
+  - first:
+      213: -4427230594820920245
+    second: the_batman_novo_3
+  - first:
+      213: 7889078592407779531
+    second: the_batman_novo_4
+  - first:
+      213: 1681081499970546634
+    second: the_batman_novo_5
+  - first:
+      213: -4944421071301069263
+    second: the_batman_novo_6
+  - first:
+      213: -9159757333478207209
+    second: the_batman_novo_7
+  - first:
+      213: -1575543525403517151
+    second: the_batman_novo_8
+  - first:
+      213: 744763865814681093
+    second: the_batman_novo_9
+  - first:
+      213: 4133036854535267615
+    second: the_batman_novo_10
+  - first:
+      213: -6775392194657661849
+    second: the_batman_novo_11
+  - first:
+      213: -3619835524985683261
+    second: the_batman_novo_12
+  - first:
+      213: -841432475323905646
+    second: the_batman_novo_13
+  - first:
+      213: -1787641104525178487
+    second: the_batman_novo_14
+  - first:
+      213: -3301444642876575666
+    second: the_batman_novo_15
+  - first:
+      213: 4737771000224657226
+    second: the_batman_novo_16
+  - first:
+      213: -3956341060852894044
+    second: the_batman_novo_17
+  - first:
+      213: 7073021431087850856
+    second: the_batman_novo_18
+  - first:
+      213: -4902915367084675287
+    second: the_batman_novo_19
+  - first:
+      213: 8139808946583829421
+    second: the_batman_novo_20
+  - first:
+      213: -5740878868635306029
+    second: the_batman_novo_21
+  - first:
+      213: -7009487163398051906
+    second: the_batman_novo_22
+  - first:
+      213: 4910615906323328675
+    second: the_batman_novo_23
+  - first:
+      213: -8929771351930089125
+    second: the_batman_novo_24
+  - first:
+      213: -4006533228455763286
+    second: the_batman_novo_25
+  - first:
+      213: -7393124497757260846
+    second: the_batman_novo_26
+  - first:
+      213: 9716109314109877
+    second: the_batman_novo_27
+  - first:
+      213: 4417207438612387498
+    second: the_batman_novo_28
+  - first:
+      213: -7666165971226672354
+    second: the_batman_novo_29
+  - first:
+      213: -8670189573787361679
+    second: the_batman_novo_30
+  - first:
+      213: 3607579471741389818
+    second: the_batman_novo_31
+  - first:
+      213: -4228144279741771459
+    second: the_batman_novo_32
+  - first:
+      213: -1304060543302404276
+    second: the_batman_novo_33
+  - first:
+      213: 2852621325465023733
+    second: the_batman_novo_34
+  - first:
+      213: 6006740276165966174
+    second: the_batman_novo_35
+  - first:
+      213: -2542174468315307854
+    second: the_batman_novo_36
+  - first:
+      213: -7451468105834575374
+    second: the_batman_novo_37
+  - first:
+      213: -6181292356772016297
+    second: the_batman_novo_38
+  - first:
+      213: 2323739855320008034
+    second: the_batman_novo_39
+  - first:
+      213: -655268973185948865
+    second: the_batman_novo_40
+  - first:
+      213: 8193436055365133662
+    second: the_batman_novo_41
+  - first:
+      213: -367371908325317390
+    second: the_batman_novo_42
+  - first:
+      213: -4998505027090069658
+    second: the_batman_novo_43
+  - first:
+      213: 1566553539269231122
+    second: the_batman_novo_44
+  - first:
+      213: 6423472738363492508
+    second: the_batman_novo_45
+  - first:
+      213: 7526712268802390349
+    second: the_batman_novo_46
+  - first:
+      213: 5705203222270631956
+    second: the_batman_novo_47
+  - first:
+      213: 1088939531879389713
+    second: the_batman_novo_48
+  - first:
+      213: 6674752552078505994
+    second: the_batman_novo_49
+  - first:
+      213: -7367017913758943825
+    second: the_batman_novo_50
+  - first:
+      213: -439211452341752311
+    second: the_batman_novo_51
+  - first:
+      213: 4847193892856410272
+    second: the_batman_novo_52
+  - first:
+      213: -3081598374369157399
+    second: the_batman_novo_53
+  - first:
+      213: 441507904493895432
+    second: the_batman_novo_54
+  - first:
+      213: 8989985218760226592
+    second: the_batman_novo_55
+  - first:
+      213: -2698347600000427839
+    second: the_batman_novo_56
+  - first:
+      213: 429896079945788473
+    second: the_batman_novo_57
+  - first:
+      213: -1252781298000080949
+    second: the_batman_novo_58
+  - first:
+      213: -4384655291954297236
+    second: the_batman_novo_59
+  - first:
+      213: -5253258354372137864
+    second: the_batman_novo_60
+  - first:
+      213: -395295153101030813
+    second: the_batman_novo_61
+  - first:
+      213: 7843506548695189550
+    second: the_batman_novo_62
+  - first:
+      213: -3460526343982209154
+    second: the_batman_novo_63
+  - first:
+      213: -2124111417672013451
+    second: the_batman_novo_64
+  - first:
+      213: 1035304169702775050
+    second: the_batman_novo_65
+  - first:
+      213: -1855314008037746290
+    second: the_batman_novo_66
+  - first:
+      213: 5710439931986943079
+    second: the_batman_novo_67
+  - first:
+      213: 6616082562464994801
+    second: the_batman_novo_68
+  - first:
+      213: 9057506738410958110
+    second: the_batman_novo_69
+  - first:
+      213: 4150586739158197022
+    second: the_batman_novo_70
+  - first:
+      213: -5401797948718975771
+    second: the_batman_novo_71
+  - first:
+      213: 2913847114619554420
+    second: the_batman_novo_72
+  - first:
+      213: 4407891195625603293
+    second: the_batman_novo_73
+  - first:
+      213: -5887347083916611522
+    second: the_batman_novo_74
+  - first:
+      213: 6836412583561945803
+    second: the_batman_novo_75
+  - first:
+      213: 3844370282602232455
+    second: the_batman_novo_76
+  - first:
+      213: -6420026935572111040
+    second: the_batman_novo_77
+  - first:
+      213: 1826458890697089656
+    second: the_batman_novo_78
+  - first:
+      213: -7566014364526423186
+    second: the_batman_novo_79
+  - first:
+      213: -545191975443785767
+    second: the_batman_novo_80
+  - first:
+      213: -2483771807918141272
+    second: the_batman_novo_81
+  - first:
+      213: 7336778577428446657
+    second: the_batman_novo_82
+  - first:
+      213: 442364795755886667
+    second: the_batman_novo_83
+  - first:
+      213: 7401146107965556582
+    second: the_batman_novo_84
+  - first:
+      213: -3116998067083987715
+    second: the_batman_novo_85
+  - first:
+      213: 754533739901904490
+    second: the_batman_novo_86
+  - first:
+      213: 6511228567717238668
+    second: the_batman_novo_87
+  - first:
+      213: -2615360073503411958
+    second: the_batman_novo_88
+  - first:
+      213: -6812042869346498824
+    second: the_batman_novo_89
+  - first:
+      213: -7718781308286500280
+    second: the_batman_novo_90
+  - first:
+      213: -495307956213119543
+    second: the_batman_novo_91
+  - first:
+      213: 4418259907653339310
+    second: the_batman_novo_92
+  - first:
+      213: -4163921879548982496
+    second: the_batman_novo_93
+  - first:
+      213: 805538440565680986
+    second: the_batman_novo_94
+  - first:
+      213: 7040984993881569777
+    second: the_batman_novo_95
+  - first:
+      213: 4539255376000288025
+    second: the_batman_novo_96
+  - first:
+      213: 178622696666518641
+    second: the_batman_novo_97
+  - first:
+      213: 7127742669362475597
+    second: the_batman_novo_98
+  - first:
+      213: -6543938484956950692
+    second: the_batman_novo_99
+  - first:
+      213: -7256735321349048980
+    second: the_batman_novo_100
+  - first:
+      213: -1821616377012323044
+    second: the_batman_novo_101
+  - first:
+      213: -7940322603704940313
+    second: the_batman_novo_102
+  - first:
+      213: 6662397132413724619
+    second: the_batman_novo_103
+  - first:
+      213: -8265999045827693371
+    second: the_batman_novo_104
+  - first:
+      213: -8269185890178588255
+    second: the_batman_novo_105
+  - first:
+      213: -8889136908296157590
+    second: the_batman_novo_106
+  - first:
+      213: -7077961351289745378
+    second: the_batman_novo_107
+  - first:
+      213: 6778040908781385971
+    second: the_batman_novo_108
+  - first:
+      213: -8486311009531393902
+    second: the_batman_novo_109
+  - first:
+      213: -5023483645050890671
+    second: the_batman_novo_110
+  - first:
+      213: 6145383113631113882
+    second: the_batman_novo_111
+  - first:
+      213: -8854189896932401304
+    second: the_batman_novo_112
+  - first:
+      213: 1807831890350036332
+    second: the_batman_novo_113
+  - first:
+      213: 2105443660195963665
+    second: the_batman_novo_114
+  - first:
+      213: -4146107428463801876
+    second: the_batman_novo_115
+  - first:
+      213: -1099417648633924959
+    second: the_batman_novo_116
+  - first:
+      213: -5344198583339173631
+    second: the_batman_novo_117
+  - first:
+      213: 248269426307944251
+    second: the_batman_novo_118
+  - first:
+      213: -1561256799123759037
+    second: the_batman_novo_119
+  - first:
+      213: 8212308254846052107
+    second: the_batman_novo_120
+  - first:
+      213: -1760553832720245530
+    second: the_batman_novo_121
+  - first:
+      213: -489913008556096726
+    second: the_batman_novo_122
+  - first:
+      213: 4919026830364602417
+    second: the_batman_novo_123
+  - first:
+      213: -6345520578804460793
+    second: the_batman_novo_124
+  - first:
+      213: 2403762557685377850
+    second: the_batman_novo_125
+  - first:
+      213: -237786205411345448
+    second: the_batman_novo_126
+  - first:
+      213: -8489996183021541711
+    second: the_batman_novo_127
+  - first:
+      213: 8184115191487378575
+    second: the_batman_novo_128
+  - first:
+      213: -5523391269283014151
+    second: the_batman_novo_129
+  - first:
+      213: 7051524431196549211
+    second: the_batman_novo_130
+  - first:
+      213: -899575734088100701
+    second: the_batman_novo_131
+  - first:
+      213: -6830138304933744479
+    second: the_batman_novo_132
+  - first:
+      213: -6053675124510491380
+    second: the_batman_novo_133
+  - first:
+      213: -5092212753146093169
+    second: the_batman_novo_134
+  - first:
+      213: -2220342414050332428
+    second: the_batman_novo_135
+  - first:
+      213: 3346147513672390524
+    second: the_batman_novo_136
+  - first:
+      213: 7328869522419469032
+    second: the_batman_novo_137
+  - first:
+      213: 4805725563694697088
+    second: the_batman_novo_138
+  - first:
+      213: 4178012672629785905
+    second: the_batman_novo_139
+  - first:
+      213: 5746388241677462461
+    second: the_batman_novo_140
+  - first:
+      213: -2191674230012231226
+    second: the_batman_novo_141
+  - first:
+      213: 4414137713086728024
+    second: the_batman_novo_142
+  - first:
+      213: 6544136410193854924
+    second: the_batman_novo_143
+  - first:
+      213: 7958312162660656235
+    second: the_batman_novo_144
+  - first:
+      213: -1485493878398810374
+    second: the_batman_novo_145
+  - first:
+      213: 1003816247406896303
+    second: the_batman_novo_146
+  - first:
+      213: 1022669271464091961
+    second: the_batman_novo_147
+  - first:
+      213: 6598021646097726964
+    second: the_batman_novo_148
+  - first:
+      213: -1417809440535879275
+    second: the_batman_novo_149
+  - first:
+      213: -305430203200617220
+    second: the_batman_novo_150
+  - first:
+      213: -7749831986073174387
+    second: the_batman_novo_151
+  - first:
+      213: -1467805289942467455
+    second: the_batman_novo_152
+  - first:
+      213: 4799003071182599449
+    second: the_batman_novo_153
+  - first:
+      213: -5705036293746636923
+    second: the_batman_novo_154
+  - first:
+      213: -4800330497581054914
+    second: the_batman_novo_155
+  - first:
+      213: 4341407719069750845
+    second: the_batman_novo_156
+  - first:
+      213: -5131599561562264055
+    second: the_batman_novo_157
+  - first:
+      213: -7363774447543313452
+    second: the_batman_novo_158
+  - first:
+      213: -9148647660208213940
+    second: the_batman_novo_159
+  - first:
+      213: -7672845667293031749
+    second: the_batman_novo_160
+  - first:
+      213: 4406049694891826675
+    second: the_batman_novo_161
+  - first:
+      213: -6302193415979293741
+    second: the_batman_novo_162
+  - first:
+      213: -5697393332482871434
+    second: the_batman_novo_163
+  - first:
+      213: -4111542974213101178
+    second: the_batman_novo_164
+  - first:
+      213: 3169226995929922239
+    second: the_batman_novo_165
+  - first:
+      213: 6511531736500825891
+    second: the_batman_novo_166
+  - first:
+      213: -8894492087831670616
+    second: the_batman_novo_167
+  - first:
+      213: 3579145823451736818
+    second: the_batman_novo_168
+  - first:
+      213: 8725815285258120671
+    second: the_batman_novo_169
+  - first:
+      213: 7136291694421977114
+    second: the_batman_novo_170
+  - first:
+      213: -5027233479386085
+    second: the_batman_novo_171
+  - first:
+      213: 2337199940120713963
+    second: the_batman_novo_172
+  - first:
+      213: -7928984885084603740
+    second: the_batman_novo_173
+  - first:
+      213: 5773884796818320171
+    second: the_batman_novo_174
+  - first:
+      213: -2655886149864867663
+    second: the_batman_novo_175
+  - first:
+      213: 346173827579395563
+    second: the_batman_novo_176
+  - first:
+      213: 545027541803483561
+    second: the_batman_novo_177
+  - first:
+      213: -4333038244386068816
+    second: the_batman_novo_178
+  - first:
+      213: -8977629304257326586
+    second: the_batman_novo_179
+  - first:
+      213: -6742760787791723266
+    second: the_batman_novo_180
+  - first:
+      213: -9135755253022418866
+    second: the_batman_novo_181
+  - first:
+      213: -3603415157056485771
+    second: the_batman_novo_182
+  - first:
+      213: -1798616056091789198
+    second: the_batman_novo_183
+  - first:
+      213: -2791918251618181216
+    second: the_batman_novo_184
+  - first:
+      213: -2697059550272706287
+    second: the_batman_novo_185
+  - first:
+      213: 6595845882882918006
+    second: the_batman_novo_186
+  - first:
+      213: -2287265630446472578
+    second: the_batman_novo_187
+  - first:
+      213: 2049069442280415566
+    second: the_batman_novo_188
+  - first:
+      213: 5650907652348890371
+    second: the_batman_novo_189
+  - first:
+      213: 3936806957439689399
+    second: the_batman_novo_190
+  - first:
+      213: 1920834121262284857
+    second: the_batman_novo_191
+  - first:
+      213: -8181628792981622708
+    second: the_batman_novo_192
+  - first:
+      213: 8157513744147911664
+    second: the_batman_novo_193
+  - first:
+      213: -8972553744463585472
+    second: the_batman_novo_194
+  - first:
+      213: -4058779334098534723
+    second: the_batman_novo_195
+  - first:
+      213: -4463157868513282694
+    second: the_batman_novo_196
+  - first:
+      213: -815816697245525537
+    second: the_batman_novo_197
+  - first:
+      213: 8021817800177119241
+    second: the_batman_novo_198
+  - first:
+      213: -5526466313634909423
+    second: the_batman_novo_199
+  - first:
+      213: 530165010861086845
+    second: the_batman_novo_200
+  - first:
+      213: -6612810490548663873
+    second: the_batman_novo_201
+  - first:
+      213: 5558180711683103729
+    second: the_batman_novo_202
+  - first:
+      213: 2436113280326488343
+    second: the_batman_novo_203
+  - first:
+      213: -1235418254785570198
+    second: the_batman_novo_204
+  - first:
+      213: 1805471789127866431
+    second: the_batman_novo_205
+  - first:
+      213: -5866043174451203225
+    second: the_batman_novo_206
+  - first:
+      213: 9077188661558170617
+    second: the_batman_novo_207
+  - first:
+      213: 9137358467903605789
+    second: the_batman_novo_208
+  - first:
+      213: 3731861515257425868
+    second: the_batman_novo_209
+  - first:
+      213: -2312210455965869451
+    second: the_batman_novo_210
+  - first:
+      213: 7587833862164560566
+    second: the_batman_novo_211
+  - first:
+      213: 855762130194919781
+    second: the_batman_novo_212
+  - first:
+      213: -9218733033468020267
+    second: the_batman_novo_213
+  - first:
+      213: 3482940476112419931
+    second: the_batman_novo_214
+  - first:
+      213: 8633870548585275752
+    second: the_batman_novo_215
+  - first:
+      213: 7434904225269844793
+    second: the_batman_novo_216
+  - first:
+      213: -7599254466407876040
+    second: the_batman_novo_217
+  - first:
+      213: -1370920586072102156
+    second: the_batman_novo_218
+  - first:
+      213: 1652671709631456973
+    second: the_batman_novo_219
+  - first:
+      213: -8755166841123048435
+    second: the_batman_novo_220
+  - first:
+      213: -7392172293923589067
+    second: the_batman_novo_221
+  - first:
+      213: 5931203494404309477
+    second: the_batman_novo_222
+  - first:
+      213: -1274785147412567436
+    second: the_batman_novo_223
+  - first:
+      213: 7644010689048449674
+    second: the_batman_novo_224
+  - first:
+      213: 8250563323916079830
+    second: the_batman_novo_225
+  - first:
+      213: -7642132117410294035
+    second: the_batman_novo_226
+  - first:
+      213: 249513318751678149
+    second: the_batman_novo_227
+  - first:
+      213: -7269655429559872469
+    second: the_batman_novo_228
+  - first:
+      213: -6759731915236250306
+    second: the_batman_novo_229
+  - first:
+      213: 3577196813027943408
+    second: the_batman_novo_230
+  - first:
+      213: -915176486257879722
+    second: the_batman_novo_231
+  - first:
+      213: 7556758557217746425
+    second: the_batman_novo_232
+  - first:
+      213: 1872079608672675451
+    second: the_batman_novo_233
+  - first:
+      213: -8439091350756894782
+    second: the_batman_novo_234
+  - first:
+      213: 8612924491767806910
+    second: the_batman_novo_235
+  - first:
+      213: -4852256177121056218
+    second: the_batman_novo_236
+  - first:
+      213: 6974190287570462509
+    second: the_batman_novo_237
+  - first:
+      213: 5876581362843708308
+    second: the_batman_novo_238
+  - first:
+      213: 9210838857793451693
+    second: the_batman_novo_239
+  - first:
+      213: -8918045317923650071
+    second: the_batman_novo_240
+  - first:
+      213: 8167232555006816776
+    second: the_batman_novo_241
+  - first:
+      213: 5566414468709679535
+    second: the_batman_novo_242
+  - first:
+      213: 3233337544476209364
+    second: the_batman_novo_243
+  - first:
+      213: -6648754441103829479
+    second: the_batman_novo_244
+  - first:
+      213: 6399205771423698149
+    second: the_batman_novo_245
+  - first:
+      213: 2458128193264884222
+    second: the_batman_novo_246
+  - first:
+      213: -4583404136960867653
+    second: the_batman_novo_247
+  - first:
+      213: -5709977158847686738
+    second: the_batman_novo_248
+  - first:
+      213: 7138595755204823195
+    second: the_batman_novo_249
+  - first:
+      213: -3751859171020622959
+    second: the_batman_novo_250
+  - first:
+      213: -2980918173339290619
+    second: the_batman_novo_251
+  - first:
+      213: 6221246140598683371
+    second: the_batman_novo_252
+  - first:
+      213: 3567703679047477639
+    second: the_batman_novo_253
+  - first:
+      213: -5621663876325753074
+    second: the_batman_novo_254
+  - first:
+      213: -7708576820181387475
+    second: the_batman_novo_255
+  - first:
+      213: -947076639788924818
+    second: the_batman_novo_256
+  - first:
+      213: -5251988024365538658
+    second: the_batman_novo_257
+  - first:
+      213: 2033479106454419629
+    second: the_batman_novo_258
+  - first:
+      213: 7676103626423452599
+    second: the_batman_novo_259
+  - first:
+      213: -3405829161395032040
+    second: the_batman_novo_260
+  - first:
+      213: 7494836581604659802
+    second: the_batman_novo_261
+  - first:
+      213: -76189160765224106
+    second: the_batman_novo_262
+  - first:
+      213: 4460724026203635234
+    second: the_batman_novo_263
+  - first:
+      213: 5631005232709952613
+    second: the_batman_novo_264
+  - first:
+      213: 8743890491125586169
+    second: the_batman_novo_265
+  - first:
+      213: -972166671877863991
+    second: the_batman_novo_266
+  - first:
+      213: 1220949035686380778
+    second: the_batman_novo_267
+  - first:
+      213: -6152353531425134186
+    second: the_batman_novo_268
+  - first:
+      213: 4672957520563154704
+    second: the_batman_novo_269
+  - first:
+      213: -4478082766299524984
+    second: the_batman_novo_270
+  - first:
+      213: 7521030318159817948
+    second: the_batman_novo_271
+  - first:
+      213: 5160466598398526463
+    second: the_batman_novo_272
+  - first:
+      213: -2390433821030983415
+    second: the_batman_novo_273
+  - first:
+      213: 2875567482059494070
+    second: the_batman_novo_274
+  - first:
+      213: -5661870470996097550
+    second: the_batman_novo_275
+  - first:
+      213: 7415806001702871466
+    second: the_batman_novo_276
+  - first:
+      213: 6176498441294238173
+    second: the_batman_novo_277
+  - first:
+      213: 5180608524046282133
+    second: the_batman_novo_278
+  - first:
+      213: -482886400648982386
+    second: the_batman_novo_279
+  - first:
+      213: -3036061411547168217
+    second: the_batman_novo_280
+  - first:
+      213: 370391231331481874
+    second: the_batman_novo_281
+  - first:
+      213: 6298453020599775286
+    second: the_batman_novo_282
+  - first:
+      213: -3447009332549653216
+    second: the_batman_novo_283
+  - first:
+      213: 8115593028642015197
+    second: the_batman_novo_284
+  - first:
+      213: 1067755427058202925
+    second: the_batman_novo_285
+  - first:
+      213: 2065437907513000099
+    second: the_batman_novo_286
+  - first:
+      213: -7238206786422325727
+    second: the_batman_novo_287
+  - first:
+      213: -3305117298568000050
+    second: the_batman_novo_288
+  - first:
+      213: 2903310862821243390
+    second: the_batman_novo_289
+  - first:
+      213: -7353324512212345359
+    second: the_batman_novo_290
+  - first:
+      213: 7720715896836311026
+    second: the_batman_novo_291
+  - first:
+      213: -1458581836338973788
+    second: the_batman_novo_292
+  - first:
+      213: 7841740653695630235
+    second: the_batman_novo_293
+  - first:
+      213: -7716584935710316074
+    second: the_batman_novo_294
+  - first:
+      213: 2014664527048255495
+    second: the_batman_novo_295
+  - first:
+      213: 677608857806784316
+    second: the_batman_novo_296
+  - first:
+      213: 4879176157334234790
+    second: the_batman_novo_297
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: the_batman_novo_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1417
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b30340b6fe64b0800000000000000
+      internalID: -5445143662545357222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1416
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0c4e5770843ccc0800000000000000
+      internalID: -3692028072633777925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94181a7c389b29a40800000000000000
+      internalID: 5373561281047527753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c25f00b315f82c0800000000000000
+      internalID: -4427230594820920245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8ba918e23ab7d60800000000000000
+      internalID: 7889078592407779531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba93ca7b6645710800000000000000
+      internalID: 1681081499970546634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1418
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b4297b33e16bb0800000000000000
+      internalID: -4944421071301069263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1419
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71190455c3102e080800000000000000
+      internalID: -9159757333478207209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1418
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f1820e28b822ae0800000000000000
+      internalID: -1575543525403517151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1419
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5064e6f3acee55a00800000000000000
+      internalID: 744763865814681093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1418
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152c261f1f7b5930800000000000000
+      internalID: 4133036854535267615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1419
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cc97f42b8f8f1a0800000000000000
+      internalID: -6775392194657661849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1418
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c283ebc4c2c3cdc0800000000000000
+      internalID: -3619835524985683261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1418
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29947dd2f91a254f0800000000000000
+      internalID: -841432475323905646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_14
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1419
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c3e203e50137e0800000000000000
+      internalID: -1787641104525178487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1420
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b9bfc699ee22d0800000000000000
+      internalID: -3301444642876575666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1359
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fa9877f91ffb140800000000000000
+      internalID: 4737771000224657226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1359
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6329944c04819c0800000000000000
+      internalID: -3956341060852894044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1358
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86567b0648b682260800000000000000
+      internalID: 7073021431087850856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1358
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f2d1d437855fbb0800000000000000
+      internalID: -4902915367084675287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1359
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabfca04c1966f070800000000000000
+      internalID: 8139808946583829421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1358
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d73270e51d4450b0800000000000000
+      internalID: -5740878868635306029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1360
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7afff009c49be90800000000000000
+      internalID: -7009487163398051906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1364
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee8c43623062440800000000000000
+      internalID: 4910615906323328675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1373
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b515fb27444131480800000000000000
+      internalID: -8929771351930089125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1378
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26819914fe568c0800000000000000
+      internalID: -4006533228455763286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1376
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b0f29078566990800000000000000
+      internalID: -7393124497757260846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1304
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1344cffb4822000800000000000000
+      internalID: 9716109314109877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1303
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa654b513c21d4d30800000000000000
+      internalID: 4417207438612387498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1305
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c8df8aae4c9590800000000000000
+      internalID: -7666165971226672354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1306
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17edb1fe48c4da780800000000000000
+      internalID: -8670189573787361679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1307
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb03207a62b01230800000000000000
+      internalID: 3607579471741389818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1306
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3154e2ed2d9255c0800000000000000
+      internalID: -4228144279741771459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1306
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c477bd658db07ede0800000000000000
+      internalID: -1304060543302404276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1305
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4fb0f4bfb869720800000000000000
+      internalID: 2852621325465023733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5977e2c47a3c5350800000000000000
+      internalID: 6006740276165966174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_36
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1301
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0aff24ac168bcd0800000000000000
+      internalID: -2542174468315307854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1345
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c390cc31179890800000000000000
+      internalID: -7451468105834575374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1303
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f44c5f953a73aa0800000000000000
+      internalID: -6181292356772016297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1249
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26544c236159f3020800000000000000
+      internalID: 2323739855320008034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1249
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33aae4375408e6f0800000000000000
+      internalID: -655268973185948865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1247
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55aae18eaee4b170800000000000000
+      internalID: 8193436055365133662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1247
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4efcf1235d6eaf0800000000000000
+      internalID: -367371908325317390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1245
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667ca4c392eb1aab0800000000000000
+      internalID: -4998505027090069658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_44
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1246
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21206cdd4248db510800000000000000
+      internalID: 1566553539269231122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1246
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98cf8a2c62c42950800000000000000
+      internalID: 6423472738363492508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1245
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d497a842ee0447860800000000000000
+      internalID: 7526712268802390349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1245
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410eada6a14fc2f40800000000000000
+      internalID: 5705203222270631956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1245
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1d8b1cb0bc1f00800000000000000
+      internalID: 1088939531879389713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1191
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08754ee41c71ac50800000000000000
+      internalID: 6674752552078505994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1194
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa575745d3813c990800000000000000
+      internalID: -7367017913758943825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1194
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee2e9d28b97e9f0800000000000000
+      internalID: -439211452341752311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1190
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0362df921b44340800000000000000
+      internalID: 4847193892856410272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1191
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee1e430b96fb35d0800000000000000
+      internalID: -3081598374369157399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1191
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fb2e4991d802600800000000000000
+      internalID: 441507904493895432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_55
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1190
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027373cece7d2cc70800000000000000
+      internalID: 8989985218760226592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1191
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8527d772b8d8ad0800000000000000
+      internalID: -2698347600000427839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1188
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c608ff43c47f500800000000000000
+      internalID: 429896079945788473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1187
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc3770c0a3d9ee0800000000000000
+      internalID: -1252781298000080949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1108
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66078c2e339623c0800000000000000
+      internalID: -4384655291954297236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1110
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cab421c5da817b0800000000000000
+      internalID: -5253258354372137864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_61
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1115
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36abaf11721a38af0800000000000000
+      internalID: -395295153101030813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1121
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284d6c36abb9dc60800000000000000
+      internalID: 7843506548695189550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1121
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e772f03ff9db9ffc0800000000000000
+      internalID: -3460526343982209154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1121
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579ee4e6be3a582e0800000000000000
+      internalID: -2124111417672013451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1122
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095d9538a32e5e00800000000000000
+      internalID: 1035304169702775050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1120
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e899a145db99046e0800000000000000
+      internalID: -1855314008037746290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1112
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c9949ecde8f3f40800000000000000
+      internalID: 5710439931986943079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_68
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1114
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d16c790c01db50800000000000000
+      internalID: 6616082562464994801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_69
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1115
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d21bdc36ab2bd70800000000000000
+      internalID: 9057506738410958110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_70
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1115
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a8f406a8d99930800000000000000
+      internalID: 4150586739158197022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_71
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1118
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4fb26b265f805b0800000000000000
+      internalID: -5401797948718975771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1063
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a02b43380107820800000000000000
+      internalID: 2913847114619554420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1062
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd006db30b9fb2d30800000000000000
+      internalID: 4407891195625603293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1061
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f7b90501fb4ea0800000000000000
+      internalID: -5887347083916611522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1058
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2683d1601dfde50800000000000000
+      internalID: 6836412583561945803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_76
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1060
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af2975762f95530800000000000000
+      internalID: 3844370282602232455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_77
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1062
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e8c0548b77e6a0800000000000000
+      internalID: -6420026935572111040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_78
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1064
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872aad02fa2e85910800000000000000
+      internalID: 1826458890697089656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1061
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6356ec950e100790800000000000000
+      internalID: -7566014364526423186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1061
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7974179c61f68f0800000000000000
+      internalID: -545191975443785767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1007
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d8e543bed78dd0800000000000000
+      internalID: -2483771807918141272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_82
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1006
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd71578e3971d560800000000000000
+      internalID: 7336778577428446657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1005
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48fa202078932600800000000000000
+      internalID: 442364795755886667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1002
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6674d081c2726b660800000000000000
+      internalID: 7401146107965556582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 999
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df431e5c5c23eb4d0800000000000000
+      internalID: -3116998067083987715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1002
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6666e15074a87a00800000000000000
+      internalID: 754533739901904490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_87
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 997
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87592662e78c5a50800000000000000
+      internalID: 6511228567717238668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1000
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f613bedf54bbd0800000000000000
+      internalID: -2615360073503411958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_89
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 998
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f68ed12a13c671a0800000000000000
+      internalID: -6812042869346498824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 996
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84288a4cb4161e490800000000000000
+      internalID: -7718781308286500280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 941
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c50e7fb9005029f0800000000000000
+      internalID: -495307956213119543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_92
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 943
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea807012affc05d30800000000000000
+      internalID: 4418259907653339310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_93
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 942
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8109ac17c636c0800000000000000
+      internalID: -4163921879548982496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 943
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5be6da91f8dd2b00800000000000000
+      internalID: 805538440565680986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 943
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9ba251c8a96b160800000000000000
+      internalID: 7040984993881569777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_96
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 944
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158747e6bcaefe30800000000000000
+      internalID: 4539255376000288025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_97
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 946
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17451af65689a7200800000000000000
+      internalID: 178622696666518641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_98
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 946
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42beb18134dae260800000000000000
+      internalID: 7127742669362475597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_99
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 948
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f02248e924f25a0800000000000000
+      internalID: -6543938484956950692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 950
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b5fd4ca5ea4b90800000000000000
+      internalID: -7256735321349048980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_101
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 952
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d75237e8158b6e0800000000000000
+      internalID: -1821616377012323044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_102
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 954
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8892c59ae4ec190800000000000000
+      internalID: -7940322603704940313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_103
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 887
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7e91e94e6957c50800000000000000
+      internalID: 6662397132413724619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_104
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 887
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f8b7b9a5494d80800000000000000
+      internalID: -8265999045827693371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_105
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 889
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1ab32be33fd3d80800000000000000
+      internalID: -8269185890178588255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 892
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66813d141173a480800000000000000
+      internalID: -8889136908296157590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_107
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 891
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e105e62d6a706cd90800000000000000
+      internalID: -7077961351289745378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_108
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 892
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8faf08b40701e50800000000000000
+      internalID: 6778040908781385971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_109
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 894
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298056769119a3a80800000000000000
+      internalID: -8486311009531393902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_110
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 895
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d1c98d30094ab0800000000000000
+      internalID: -5023483645050890671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_111
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 895
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92aaa8d169c84550800000000000000
+      internalID: 6145383113631113882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_112
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 898
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fdd7343399f1580800000000000000
+      internalID: -8854189896932401304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 828
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65dfe5a685b61910800000000000000
+      internalID: 1807831890350036332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_114
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 825
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11324949ad9083d10800000000000000
+      internalID: 2105443660195963665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_115
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 824
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce98ec5c2411676c0800000000000000
+      internalID: -4146107428463801876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_116
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 827
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2316939751eb0f0800000000000000
+      internalID: -1099417648633924959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_117
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 874
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1093ce604b795d5b0800000000000000
+      internalID: -5344198583339173631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_118
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 871
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fcca35ab7027300800000000000000
+      internalID: 248269426307944251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_119
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 874
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340a01d863d455ae0800000000000000
+      internalID: -1561256799123759037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_120
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 874
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b076b1cd8daf7f170800000000000000
+      internalID: 8212308254846052107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_121
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 824
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd1c0fd914197e0800000000000000
+      internalID: -1760553832720245530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 821
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23cb22e6ba7339f0800000000000000
+      internalID: -489913008556096726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_123
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1307f7017d4e34440800000000000000
+      internalID: 4919026830364602417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 820
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703dd6157ae20f7a0800000000000000
+      internalID: -6345520578804460793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_125
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 817
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba83f7f41eb5120800000000000000
+      internalID: 2403762557685377850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_126
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 865
+        width: 277
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbf7fdb4b633bcf0800000000000000
+      internalID: -237786205411345448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_127
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 817
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6249614797d2a80800000000000000
+      internalID: -8489996183021541711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_128
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 815
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84bb75c761d39170800000000000000
+      internalID: 8184115191487378575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_129
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 817
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f954ee97e8f853b0800000000000000
+      internalID: -5523391269283014151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_130
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 818
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50757e0c1c0cd160800000000000000
+      internalID: 7051524431196549211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_131
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 812
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a41e11d2a01483f0800000000000000
+      internalID: -899575734088100701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_132
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 812
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b2a736697631a0800000000000000
+      internalID: -6830138304933744479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 812
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfee94c860dfba0800000000000000
+      internalID: -6053675124510491380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_134
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 809
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8163001b73d459b0800000000000000
+      internalID: -5092212753146093169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_135
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 805
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0fbca9652cf21e0800000000000000
+      internalID: -2220342414050332428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_136
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 804
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77df7e5f67ef6e20800000000000000
+      internalID: 3346147513672390524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_137
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 761
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eacff8200065b560800000000000000
+      internalID: 7328869522419469032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_138
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 760
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a490830fd51b240800000000000000
+      internalID: 4805725563694697088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_139
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 763
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135cd23c3684bf930800000000000000
+      internalID: 4178012672629785905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_140
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 762
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbaaaef8a54fbf40800000000000000
+      internalID: 5746388241677462461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_141
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 766
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c14eb856eb9591e0800000000000000
+      internalID: -2191674230012231226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_142
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 763
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857803aecda224d30800000000000000
+      internalID: 4414137713086728024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_143
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 759
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc10e4b846171da50800000000000000
+      internalID: 6544136410193854924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_144
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 763
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b642f0b3fba917e60800000000000000
+      internalID: 7958312162660656235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 727
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af685062037726be0800000000000000
+      internalID: -1485493878398810374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_146
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 705
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4247efe854eed00800000000000000
+      internalID: 1003816247406896303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_147
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 711
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312358b840413e00800000000000000
+      internalID: 1022669271464091961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_148
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 712
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3ef3bab1e09b50800000000000000
+      internalID: 6598021646097726964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_149
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 710
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e9a163dde25ce0800000000000000
+      internalID: -1417809440535879275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_150
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 707
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf44d8239d4e2cbf0800000000000000
+      internalID: -305430203200617220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_151
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 703
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ef5297ed0137490800000000000000
+      internalID: -7749831986073174387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_152
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 696
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3a859dde41abe0800000000000000
+      internalID: -1467805289942467455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_153
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 704
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915f8d5fddb799240800000000000000
+      internalID: 4799003071182599449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_154
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 700
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5874588a7b3a3d0b0800000000000000
+      internalID: -5705036293746636923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_155
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 696
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34053f78dcc16db0800000000000000
+      internalID: -4800330497581054914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_156
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 693
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d369a489157cf3c30800000000000000
+      internalID: 4341407719069750845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_157
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 692
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ee78b1365e8c8b0800000000000000
+      internalID: -5131599561562264055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_158
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 692
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db1518a72e9ec990800000000000000
+      internalID: -7363774447543313452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_159
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 692
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b416bc69790180800000000000000
+      internalID: -9148647660208213940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_160
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 690
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29a90a483948590800000000000000
+      internalID: -7672845667293031749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_161
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 629
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fddebe6ade652d30800000000000000
+      internalID: 4406049694891826675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_162
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 626
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3afb68a7c1a88a0800000000000000
+      internalID: -6302193415979293741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_163
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 626
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fedaf33facee0b0800000000000000
+      internalID: -5697393332482871434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_164
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 625
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6896647e27dd0f6c0800000000000000
+      internalID: -4111542974213101178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_165
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 624
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba3bf8592b5bfb20800000000000000
+      internalID: 3169226995929922239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_166
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 624
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f60d16d9b9d5a50800000000000000
+      internalID: 6511531736500825891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_167
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 622
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a05547329a609480800000000000000
+      internalID: -8894492087831670616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_168
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 619
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae92ec92eaba130800000000000000
+      internalID: 3579145823451736818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_169
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 620
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddeb7545c2581970800000000000000
+      internalID: 8725815285258120671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_170
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 619
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a7938c73390360800000000000000
+      internalID: 7136291694421977114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_171
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 619
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c124ef1c32eeff0800000000000000
+      internalID: -5027233479386085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_172
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea95f766f66f6020800000000000000
+      internalID: 2337199940120713963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_173
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 556
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa371fa14696f190800000000000000
+      internalID: -7928984885084603740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_174
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 558
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6260a1a5f02050800000000000000
+      internalID: 5773884796818320171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_175
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 555
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8bc614e95642bd0800000000000000
+      internalID: -2655886149864867663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_176
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 561
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3867134bddc400800000000000000
+      internalID: 346173827579395563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_177
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 561
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1400e59a3509700800000000000000
+      internalID: 545027541803483561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_178
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 557
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6af259ca4fdd3c0800000000000000
+      internalID: -4333038244386068816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_179
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 554
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602da9a96bd096380800000000000000
+      internalID: -8977629304257326586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_180
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 555
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4cd36c9c6ec62a0800000000000000
+      internalID: -6742760787791723266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_181
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 555
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4890bc2007473180800000000000000
+      internalID: -9135755253022418866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_182
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 551
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c361a1091efdc0800000000000000
+      internalID: -3603415157056485771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_183
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 552
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b559f9380a07e0800000000000000
+      internalID: -1798616056091789198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_184
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 550
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af5e52742d1149d0800000000000000
+      internalID: -2791918251618181216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_185
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 550
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119abefe0ae129ad0800000000000000
+      internalID: -2697059550272706287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_186
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 494
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676857a52e6298b50800000000000000
+      internalID: 6595845882882918006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_187
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 497
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72374e07000240e0800000000000000
+      internalID: -2287265630446472578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_188
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 488
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416b332dc1cf6c10800000000000000
+      internalID: 2049069442280415566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_189
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 479
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dcacce19e0c6e40800000000000000
+      internalID: 5650907652348890371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_190
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 486
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2aa77d11952a630800000000000000
+      internalID: 3936806957439689399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_191
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 484
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c94ec47c28aa10800000000000000
+      internalID: 1920834121262284857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_192
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 477
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40f83ef5f3057e80800000000000000
+      internalID: -8181628792981622708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_193
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 427
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39d4aa78f453170800000000000000
+      internalID: 8157513744147911664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_194
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 426
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f952578e51b7380800000000000000
+      internalID: -8972553744463585472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_195
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 429
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe3c5133b15ca7c0800000000000000
+      internalID: -4058779334098534723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_196
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 424
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75b6ceb09daf02c0800000000000000
+      internalID: -4463157868513282694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_197
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 411
+        width: 23
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd919d64903ada4f0800000000000000
+      internalID: -815816697245525537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_198
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 411
+        width: 21
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9007670b9c8335f60800000000000000
+      internalID: 8021817800177119241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_199
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 412
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f0a01b2c0e43b0800000000000000
+      internalID: -5526466313634909423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_200
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 412
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7857b8b4468b5700800000000000000
+      internalID: 530165010861086845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_201
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 411
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9cedf15e39a34a0800000000000000
+      internalID: -6612810490548663873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_202
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 408
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb9c45a8ef922d40800000000000000
+      internalID: 5558180711683103729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_203
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 403
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d8721f10dec120800000000000000
+      internalID: 2436113280326488343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_204
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 402
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a197e84a9eadee0800000000000000
+      internalID: -1235418254785570198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_205
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 403
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3894f2c6035e0910800000000000000
+      internalID: 1805471789127866431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_206
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 402
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633bbdffc0a79ea0800000000000000
+      internalID: -5866043174451203225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_207
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 402
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d063aef6a8fd70800000000000000
+      internalID: 9077188661558170617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_208
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 402
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4dc06d1b6ece70800000000000000
+      internalID: 9137358467903605789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_209
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 360
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfaedf964c3ac330800000000000000
+      internalID: 3731861515257425868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_210
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 360
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad53647d069efd0800000000000000
+      internalID: -2312210455965869451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_211
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 358
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6babff012b66d4960800000000000000
+      internalID: 7587833862164560566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_212
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 352
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561ff769f1740eb00800000000000000
+      internalID: 855762130194919781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_213
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 352
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9baf4262b701080800000000000000
+      internalID: -9218733033468020267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_214
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 358
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cb28cd8e3e55030800000000000000
+      internalID: 3482940476112419931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_215
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 357
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e12d058ba1d770800000000000000
+      internalID: 8633870548585275752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_216
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 353
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b824640061e2760800000000000000
+      internalID: 7434904225269844793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_217
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 351
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a35fb43560a8690800000000000000
+      internalID: -7599254466407876040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_218
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 353
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fae6eb8df289fce0800000000000000
+      internalID: -1370920586072102156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_219
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 349
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6abe6e9287fe610800000000000000
+      internalID: 1652671709631456973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_220
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 351
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04f49515266f7680800000000000000
+      internalID: -8755166841123048435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_221
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 349
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534333ec67ab96990800000000000000
+      internalID: -7392172293923589067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_222
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 347
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1468e372edf4250800000000000000
+      internalID: 5931203494404309477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_223
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 345
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aa78b99ad0f4ee0800000000000000
+      internalID: -1274785147412567436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_224
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 310
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a829504d83bf41a60800000000000000
+      internalID: 7644010689048449674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_225
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 308
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d252e631a3ef7270800000000000000
+      internalID: 8250563323916079830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_226
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 305
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6d7273451b1f590800000000000000
+      internalID: -7642132117410294035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_227
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 302
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce2cea9a03767300800000000000000
+      internalID: 249513318751678149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_228
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 329
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24189137eefc1b90800000000000000
+      internalID: -7269655429559872469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_229
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 329
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de87f33ab9032a0800000000000000
+      internalID: -6759731915236250306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_230
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 329
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3a0347c81c4a130800000000000000
+      internalID: 3577196813027943408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_231
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 331
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6551fc5a5d3ac43f0800000000000000
+      internalID: -915176486257879722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_232
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6b50dedffed860800000000000000
+      internalID: 7556758557217746425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_233
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 252
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ef224c76faf910800000000000000
+      internalID: 1872079608672675451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_234
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 251
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c75013f02352ea80800000000000000
+      internalID: -8439091350756894782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_235
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 246
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf4192131478770800000000000000
+      internalID: 8612924491767806910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_236
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 246
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a218b17b259acb0800000000000000
+      internalID: -4852256177121056218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_237
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 243
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27ed9e9d1d49c060800000000000000
+      internalID: 6974190287570462509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_238
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49beaf13d9fcd8150800000000000000
+      internalID: 5876581362843708308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_239
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 247
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b42ad32973df70800000000000000
+      internalID: 9210838857793451693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_240
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 247
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5435e780dbc3480800000000000000
+      internalID: -8918045317923650071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_241
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 247
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ff27acb6d75170800000000000000
+      internalID: 8167232555006816776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_242
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 245
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa109089770ef3d40800000000000000
+      internalID: 5566414468709679535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_243
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 246
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d03071ad5f1fdc20800000000000000
+      internalID: 3233337544476209364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_244
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 242
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916943bff01eab3a0800000000000000
+      internalID: -6648754441103829479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_245
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 184
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecc652aebb8ec850800000000000000
+      internalID: 6399205771423698149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_246
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 178
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef91deb61960d1220800000000000000
+      internalID: 2458128193264884222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_247
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 175
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2446aa83a7460c0800000000000000
+      internalID: -4583404136960867653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_248
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 174
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea71a4bd60612c0b0800000000000000
+      internalID: -5709977158847686738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_249
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 173
+        width: 18
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9848187403611360800000000000000
+      internalID: 7138595755204823195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_250
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 170
+        width: 17
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193360056f7beebc0800000000000000
+      internalID: -3751859171020622959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_251
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 169
+        width: 20
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504fa9507b6a1a6d0800000000000000
+      internalID: -2980918173339290619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_252
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 166
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be687ae376e465650800000000000000
+      internalID: 6221246140598683371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_253
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789aa75f797038130800000000000000
+      internalID: 3567703679047477639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_254
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 168
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f35f44d76dbf1b0800000000000000
+      internalID: -5621663876325753074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_255
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 167
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27374d4932a50590800000000000000
+      internalID: -7708576820181387475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_256
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 169
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e608f4e50de4bd2f0800000000000000
+      internalID: -947076639788924818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_257
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 171
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e922613d7b03d17b0800000000000000
+      internalID: -5251988024365538658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_258
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 169
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f466397e583c10800000000000000
+      internalID: 2033479106454419629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_259
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 168
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ce08149ff68a60800000000000000
+      internalID: 7676103626423452599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_260
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 168
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810f16d2c601cb0d0800000000000000
+      internalID: -3405829161395032040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_261
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 167
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5216206922030860800000000000000
+      internalID: 7494836581604659802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_262
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 167
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8ad8ac5251fef0800000000000000
+      internalID: -76189160765224106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_263
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 166
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22efaee2edca7ed30800000000000000
+      internalID: 4460724026203635234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_264
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 160
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ea00cc69552e40800000000000000
+      internalID: 5631005232709952613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_265
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 161
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8d476131a885970800000000000000
+      internalID: 8743890491125586169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_266
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 115
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c50f3c009b2282f0800000000000000
+      internalID: -972166671877863991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_267
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 113
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae441f8ddaea1f010800000000000000
+      internalID: 1220949035686380778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_268
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 115
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699e8ca4f037e9aa0800000000000000
+      internalID: -6152353531425134186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_269
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 113
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f28a74b1ea9d040800000000000000
+      internalID: 4672957520563154704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_270
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 116
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801bef2377aad1c0800000000000000
+      internalID: -4478082766299524984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_271
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 115
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcebdae931106860800000000000000
+      internalID: 7521030318159817948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_272
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 114
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff300d8a709ad9740800000000000000
+      internalID: 5160466598398526463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_273
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 117
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9095e56da1973ded0800000000000000
+      internalID: -2390433821030983415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_274
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 117
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b212d7b36118e720800000000000000
+      internalID: 2875567482059494070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_275
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 115
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50104fdcefc61b0800000000000000
+      internalID: -5661870470996097550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_276
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 114
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a5b6944c3ae660800000000000000
+      internalID: 7415806001702871466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_277
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 111
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d81d9b9457b550800000000000000
+      internalID: 6176498441294238173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_278
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 110
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da32c210835e740800000000000000
+      internalID: 5180608524046282133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_279
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 108
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80537680617c49f0800000000000000
+      internalID: -482886400648982386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_280
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 109
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722c5706b3ebdd5d0800000000000000
+      internalID: -3036061411547168217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_281
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 106
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219be6bccd4e32500800000000000000
+      internalID: 370391231331481874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_282
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f55fc6a9986750800000000000000
+      internalID: 6298453020599775286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_283
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02debeb6643c920d0800000000000000
+      internalID: -3447009332549653216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_284
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 63
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd708dd7cd060a070800000000000000
+      internalID: 8115593028642015197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_285
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 64
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29bcc857ed61de00800000000000000
+      internalID: 1067755427058202925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_286
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 64
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a040fe65d8e9ac10800000000000000
+      internalID: 2065437907513000099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_287
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eb9740749bc8b90800000000000000
+      internalID: -7238206786422325727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_288
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 65
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd0bd5045dd122d0800000000000000
+      internalID: -3305117298568000050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_289
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef93efae8d1aa4820800000000000000
+      internalID: 2903310862821243390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_290
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 65
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd1963d05eb3f990800000000000000
+      internalID: -7353324512212345359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_291
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 61
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7c3aab33e752b60800000000000000
+      internalID: 7720715896836311026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_292
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 61
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3bd293c8312cbe0800000000000000
+      internalID: -1458581836338973788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_293
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 59
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b7444c39573dc60800000000000000
+      internalID: 7841740653695630235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_294
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 57
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92bdb92ee29e490800000000000000
+      internalID: -7716584935710316074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_295
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708aa4496b685fb10800000000000000
+      internalID: 2014664527048255495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_296
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 54
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c374b328aa9576900800000000000000
+      internalID: 677608857806784316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_batman_novo_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 177
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a666763dd056b340800000000000000
+      internalID: 4879176157334234790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

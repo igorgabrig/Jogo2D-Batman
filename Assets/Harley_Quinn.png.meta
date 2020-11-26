@@ -1,0 +1,2551 @@
+fileFormatVersion: 2
+guid: af70b628709ec9841a36cdca0017e00f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1542514162488280293
+    second: Harley_Quinn_0
+  - first:
+      213: 8000571805965122612
+    second: Harley_Quinn_1
+  - first:
+      213: -2143286749600439389
+    second: Harley_Quinn_2
+  - first:
+      213: 3648242128566937502
+    second: Harley_Quinn_3
+  - first:
+      213: -8878663279372484053
+    second: Harley_Quinn_4
+  - first:
+      213: 5234903468255984702
+    second: Harley_Quinn_5
+  - first:
+      213: 3566263373924796363
+    second: Harley_Quinn_6
+  - first:
+      213: -5148354047738416479
+    second: Harley_Quinn_7
+  - first:
+      213: -3668763410671553527
+    second: Harley_Quinn_8
+  - first:
+      213: -1990628821025225539
+    second: Harley_Quinn_9
+  - first:
+      213: 4595891675741743333
+    second: Harley_Quinn_10
+  - first:
+      213: -500759205177879121
+    second: Harley_Quinn_11
+  - first:
+      213: -1905503560701866765
+    second: Harley_Quinn_12
+  - first:
+      213: -6151887710725838699
+    second: Harley_Quinn_13
+  - first:
+      213: -8575159805580525361
+    second: Harley_Quinn_14
+  - first:
+      213: 4149357451910304824
+    second: Harley_Quinn_15
+  - first:
+      213: 2069047848761093891
+    second: Harley_Quinn_16
+  - first:
+      213: 8905576721023361891
+    second: Harley_Quinn_17
+  - first:
+      213: -2532472752189904745
+    second: Harley_Quinn_18
+  - first:
+      213: -651936339660699393
+    second: Harley_Quinn_19
+  - first:
+      213: -5468022597596732637
+    second: Harley_Quinn_20
+  - first:
+      213: -8852916593763084346
+    second: Harley_Quinn_21
+  - first:
+      213: 7313837598749907324
+    second: Harley_Quinn_22
+  - first:
+      213: -3161337475447817719
+    second: Harley_Quinn_23
+  - first:
+      213: -1120285541021985465
+    second: Harley_Quinn_24
+  - first:
+      213: 2890149544816856965
+    second: Harley_Quinn_25
+  - first:
+      213: -4604848983539316449
+    second: Harley_Quinn_26
+  - first:
+      213: -94713111972498010
+    second: Harley_Quinn_27
+  - first:
+      213: -1574544078263287353
+    second: Harley_Quinn_28
+  - first:
+      213: -8693167321326769951
+    second: Harley_Quinn_29
+  - first:
+      213: 5620637738985974723
+    second: Harley_Quinn_30
+  - first:
+      213: 3477901023201365700
+    second: Harley_Quinn_31
+  - first:
+      213: 6872473290123860792
+    second: Harley_Quinn_32
+  - first:
+      213: -5530987723530961314
+    second: Harley_Quinn_33
+  - first:
+      213: 2737705609739418388
+    second: Harley_Quinn_34
+  - first:
+      213: -8255899569366873107
+    second: Harley_Quinn_35
+  - first:
+      213: -1058843070335269135
+    second: Harley_Quinn_36
+  - first:
+      213: -7956797689798811770
+    second: Harley_Quinn_37
+  - first:
+      213: 2012657422602712243
+    second: Harley_Quinn_38
+  - first:
+      213: 2115526125021237299
+    second: Harley_Quinn_39
+  - first:
+      213: 2471070804026279187
+    second: Harley_Quinn_40
+  - first:
+      213: -8239405040710820808
+    second: Harley_Quinn_41
+  - first:
+      213: -7266580302052246896
+    second: Harley_Quinn_42
+  - first:
+      213: 6787854709101410583
+    second: Harley_Quinn_43
+  - first:
+      213: 7065084033687035188
+    second: Harley_Quinn_44
+  - first:
+      213: 5503038568236696801
+    second: Harley_Quinn_45
+  - first:
+      213: 1156822440518044917
+    second: Harley_Quinn_46
+  - first:
+      213: -6716839413003163132
+    second: Harley_Quinn_47
+  - first:
+      213: 2632178011314044793
+    second: Harley_Quinn_48
+  - first:
+      213: -3015190845159084598
+    second: Harley_Quinn_49
+  - first:
+      213: 3749503267779446212
+    second: Harley_Quinn_50
+  - first:
+      213: 7819110376803781671
+    second: Harley_Quinn_51
+  - first:
+      213: -8670817981577541681
+    second: Harley_Quinn_52
+  - first:
+      213: -1889610579876179312
+    second: Harley_Quinn_53
+  - first:
+      213: 3839566968398142478
+    second: Harley_Quinn_54
+  - first:
+      213: -9182198184912521277
+    second: Harley_Quinn_55
+  - first:
+      213: -3166560714632233538
+    second: Harley_Quinn_56
+  - first:
+      213: 7392156921143855676
+    second: Harley_Quinn_57
+  - first:
+      213: -6431622807690170159
+    second: Harley_Quinn_58
+  - first:
+      213: 2234549573534048872
+    second: Harley_Quinn_59
+  - first:
+      213: -477143179293111040
+    second: Harley_Quinn_60
+  - first:
+      213: 8755929420639191532
+    second: Harley_Quinn_61
+  - first:
+      213: 7978861330127114887
+    second: Harley_Quinn_62
+  - first:
+      213: 520334249158287441
+    second: Harley_Quinn_63
+  - first:
+      213: 2716902682315551539
+    second: Harley_Quinn_64
+  - first:
+      213: -6297457208525429716
+    second: Harley_Quinn_65
+  - first:
+      213: -9007932536109226326
+    second: Harley_Quinn_66
+  - first:
+      213: 8052128933255873707
+    second: Harley_Quinn_67
+  - first:
+      213: -8515143286571226326
+    second: Harley_Quinn_68
+  - first:
+      213: 1086125541845287827
+    second: Harley_Quinn_69
+  - first:
+      213: 7726180876560348779
+    second: Harley_Quinn_70
+  - first:
+      213: 5334015350425152601
+    second: Harley_Quinn_71
+  - first:
+      213: 2735093661761018484
+    second: Harley_Quinn_72
+  - first:
+      213: 2480046531106977839
+    second: Harley_Quinn_73
+  - first:
+      213: -7274758258386635897
+    second: Harley_Quinn_74
+  - first:
+      213: 6999361514572734501
+    second: Harley_Quinn_75
+  - first:
+      213: -2332579514059883540
+    second: Harley_Quinn_76
+  - first:
+      213: -3327936867635914547
+    second: Harley_Quinn_77
+  - first:
+      213: 150171941752716751
+    second: Harley_Quinn_78
+  - first:
+      213: 2062213120669359796
+    second: Harley_Quinn_79
+  - first:
+      213: 2685137492113650216
+    second: Harley_Quinn_80
+  - first:
+      213: -7937078545572148247
+    second: Harley_Quinn_81
+  - first:
+      213: 1964470116442638050
+    second: Harley_Quinn_82
+  - first:
+      213: -7848143663968926012
+    second: Harley_Quinn_83
+  - first:
+      213: -2375685072772689253
+    second: Harley_Quinn_84
+  - first:
+      213: -2830409594287994993
+    second: Harley_Quinn_85
+  - first:
+      213: -2608029568292356591
+    second: Harley_Quinn_86
+  - first:
+      213: 5024708265417378690
+    second: Harley_Quinn_87
+  - first:
+      213: 4489524279407698800
+    second: Harley_Quinn_88
+  - first:
+      213: -3872774428591535782
+    second: Harley_Quinn_89
+  - first:
+      213: -695343813807163414
+    second: Harley_Quinn_90
+  - first:
+      213: 3327181313056307766
+    second: Harley_Quinn_91
+  - first:
+      213: 8327673337185221025
+    second: Harley_Quinn_92
+  - first:
+      213: -6784067718123551854
+    second: Harley_Quinn_93
+  - first:
+      213: 3131093495242451829
+    second: Harley_Quinn_94
+  - first:
+      213: 6815841124405699582
+    second: Harley_Quinn_95
+  - first:
+      213: 414576861517208266
+    second: Harley_Quinn_96
+  - first:
+      213: -4345207737053855603
+    second: Harley_Quinn_97
+  - first:
+      213: 2990487495584562716
+    second: Harley_Quinn_98
+  - first:
+      213: -3412082117060024408
+    second: Harley_Quinn_99
+  - first:
+      213: 3399746006640280277
+    second: Harley_Quinn_100
+  - first:
+      213: -4806072309455490440
+    second: Harley_Quinn_101
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harley_Quinn_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48f1c457c186510800000000000000
+      internalID: 1542514162488280293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 116
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c7e8e2badb70f60800000000000000
+      internalID: 8000571805965122612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 116
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3a34e8e048142e0800000000000000
+      internalID: -2143286749600439389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 116
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97e8dff2e821a230800000000000000
+      internalID: 3648242128566937502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22c2b0e9c6a8c480800000000000000
+      internalID: -8878663279372484053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbbdaf7fc16a840800000000000000
+      internalID: 5234903468255984702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 56
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7064ac4a9ed7130800000000000000
+      internalID: 3566263373924796363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 81
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a27b9e454f5d88b0800000000000000
+      internalID: -5148354047738416479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 81
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904b8fdad1fe51dc0800000000000000
+      internalID: -3668763410671553527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4032352addf54e0800000000000000
+      internalID: -1990628821025225539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 57
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e2c60123e7cf30800000000000000
+      internalID: 4595891675741743333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59d51f722fc09f0800000000000000
+      internalID: -500759205177879121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 44
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc8f1a7b9a4e85e0800000000000000
+      internalID: -1905503560701866765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 44
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5986810a8ba10aaa0800000000000000
+      internalID: -6151887710725838699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 49
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc04a280799eef880800000000000000
+      internalID: -8575159805580525361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 44
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834db374e9a759930800000000000000
+      internalID: 4149357451910304824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 45
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fe0b06e0cb6bc10800000000000000
+      internalID: 2069047848761093891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 44
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e59018d6f69b70800000000000000
+      internalID: 8905576721023361891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 47
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7986d521379dadcd0800000000000000
+      internalID: -2532472752189904745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 44
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff80b5a6a5bd3f6f0800000000000000
+      internalID: -651936339660699393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 41
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32320761b6ead14b0800000000000000
+      internalID: -5468022597596732637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 40
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71792434f142580800000000000000
+      internalID: -8852916593763084346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 42
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795262bb88ff7560800000000000000
+      internalID: 7313837598749907324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 42
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a7dc8c05ca024d0800000000000000
+      internalID: -3161337475447817719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_24
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 39
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d0686c32f370f0800000000000000
+      internalID: -1120285541021985465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 36
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fc096c2bfdb1820800000000000000
+      internalID: 2890149544816856965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_26
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 36
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1902db3f3a4810c0800000000000000
+      internalID: -4604848983539316449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5be4d2de28faef0800000000000000
+      internalID: -94713111972498010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c10cebc088162ae0800000000000000
+      internalID: -1574544078263287353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8a84f216aab5780800000000000000
+      internalID: -8693167321326769951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbe9638e34800e40800000000000000
+      internalID: 5620637738985974723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce82ebcd8cf34030800000000000000
+      internalID: 3477901023201365700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5132ab0eef5f50800000000000000
+      internalID: 6872473290123860792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef3e948fbfd33b0800000000000000
+      internalID: -5530987723530961314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bbc104fb84ef520800000000000000
+      internalID: 2737705609739418388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb469255172d6d80800000000000000
+      internalID: -8255899569366873107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f648c766db3e41f0800000000000000
+      internalID: -1058843070335269135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f94e578a6c39190800000000000000
+      internalID: -7956797689798811770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b9c823456eeb10800000000000000
+      internalID: 2012657422602712243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33013fa5dcbdb5d10800000000000000
+      internalID: 2115526125021237299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_40
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31543d0ddc10b4220800000000000000
+      internalID: 2471070804026279187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c5edb05c0c7ad80800000000000000
+      internalID: -8239405040710820808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 19
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a335c17bbe72b90800000000000000
+      internalID: -7266580302052246896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b3f2f4ed433e50800000000000000
+      internalID: 6787854709101410583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d13380f783c0260800000000000000
+      internalID: 7065084033687035188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4c505eb68be5c40800000000000000
+      internalID: 5503038568236696801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_46
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc474b61ebdd0010800000000000000
+      internalID: 1156822440518044917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6a96242ef8c2a0800000000000000
+      internalID: -6716839413003163132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fb7f594ff578420800000000000000
+      internalID: 2632178011314044793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd6848c6e3e726d0800000000000000
+      internalID: -3015190845159084598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c509283b59e80430800000000000000
+      internalID: 3749503267779446212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_51
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc5f4d57f038c60800000000000000
+      internalID: 7819110376803781671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_52
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc740085cf01ba780800000000000000
+      internalID: -8670817981577541681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 19
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09219ae6031c6c5e0800000000000000
+      internalID: -1889610579876179312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd1ba90d1e84530800000000000000
+      internalID: 3839566968398142478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_55
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c77d037667429080800000000000000
+      internalID: -9182198184912521277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd73a4aecd1e04d0800000000000000
+      internalID: -3166560714632233538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a89b0fd87369660800000000000000
+      internalID: 7392156921143855676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b352f1294eb6a0800000000000000
+      internalID: -6431622807690170159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8626f7b7ff6b20f10800000000000000
+      internalID: 2234549573534048872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dcb337ec8d069f0800000000000000
+      internalID: -477143179293111040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1479bca6f438970800000000000000
+      internalID: 8755929420639191532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d35e1b1c9abe60800000000000000
+      internalID: 7978861330127114887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_63
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 19
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ac852e39983700800000000000000
+      internalID: 520334249158287441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33379b4489064b520800000000000000
+      internalID: 2716902682315551539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_65
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246e91c800fa98a0800000000000000
+      internalID: -6297457208525429716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a680a5156df280800000000000000
+      internalID: -9007932536109226326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba48c505a98eebf60800000000000000
+      internalID: 8052128933255873707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_68
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bae58cb4224d980800000000000000
+      internalID: -8515143286571226326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_69
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ca2ffc61b21f00800000000000000
+      internalID: 1086125541845287827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_70
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66bbc97298e83b60800000000000000
+      internalID: 7726180876560348779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_71
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c629c43ba360a40800000000000000
+      internalID: 5334015350425152601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_72
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a10b8b13105f520800000000000000
+      internalID: 2735093661761018484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_73
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2832112e25ea6220800000000000000
+      internalID: 2480046531106977839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_74
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783760648edda0b90800000000000000
+      internalID: -7274758258386635897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_75
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e5aa963ab22160800000000000000
+      internalID: 6999361514572734501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_76
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7b1e5a4301afd0800000000000000
+      internalID: -2332579514059883540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_77
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc892a11d0bc0d1d0800000000000000
+      internalID: -3327936867635914547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdb66bd594851200800000000000000
+      internalID: 150171941752716751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_79
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 18
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be95ac38e37e9c10800000000000000
+      internalID: 2062213120669359796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_80
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82274869256834520800000000000000
+      internalID: 2685137492113650216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_81
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb4cc08d15d9d190800000000000000
+      internalID: -7937078545572148247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_82
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e60f66a923334b10800000000000000
+      internalID: 1964470116442638050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_83
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c646ea3beac51390800000000000000
+      internalID: -7848143663968926012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929f23630fd70fd0800000000000000
+      internalID: -2375685072772689253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_85
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f874b9b587d58b8d0800000000000000
+      internalID: -2830409594287994993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef732fcea6ecbd0800000000000000
+      internalID: -2608029568292356591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_87
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b0c2c9b895bb540800000000000000
+      internalID: 5024708265417378690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073669cab8efd4e30800000000000000
+      internalID: 4489524279407698800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 7
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c5901d24214ac0800000000000000
+      internalID: -3872774428591535782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_90
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae732454c74a956f0800000000000000
+      internalID: -695343813807163414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63af90ca6c58c2e20800000000000000
+      internalID: 3327181313056307766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ba6c37c6d19370800000000000000
+      internalID: 8327673337185221025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2930d099a562ad1a0800000000000000
+      internalID: -6784067718123551854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_94
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 7
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6676d1f0e37b20800000000000000
+      internalID: 3131093495242451829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_95
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef363b9046bb69e50800000000000000
+      internalID: 6815841124405699582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 7
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca54d2857fd0c500800000000000000
+      internalID: 414576861517208266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_97
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8040a5c598b2b3c0800000000000000
+      internalID: -4345207737053855603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eb09f6888508920800000000000000
+      internalID: 2990487495584562716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_99
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7ac2c7469d5a0d0800000000000000
+      internalID: -3412082117060024408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_100
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c85cfaf25e2f20800000000000000
+      internalID: 3399746006640280277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harley_Quinn_101
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872701eb2b66d4db0800000000000000
+      internalID: -4806072309455490440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
